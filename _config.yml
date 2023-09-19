@@ -108,10 +108,8 @@ author:
   avatar           : "Picture1.jpg"
   bio              : "Machine Learning PhD Candidate"
   location         : "Univerity of Warwick"
+  email            : "rosco.hunter@googlemail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "rosco.hunter@googlemail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rosco-hunter/"

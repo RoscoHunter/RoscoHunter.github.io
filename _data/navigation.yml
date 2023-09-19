@@ -2,11 +2,9 @@
 main:
   - title: Home
     url: /
-  - title: About
-    url: /about/
-  - title: CV
-    url: /RHCV.pdf
   - title: Research
     url: /research/
   - title: Reding
     url: /reading/
+  - title: CV
+    url: /RHCV.pdf

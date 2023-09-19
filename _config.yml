@@ -116,7 +116,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rosco-hunter/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-graduation-cap fa-fw"
       url: "https://scholar.google.com/citations?user=15eMEHQAAAAJ&hl=en&oi=sra"
 
 # Site Footer

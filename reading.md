@@ -3,7 +3,7 @@ layout: page
 title: Reading
 permalink: /reading/
 ---
-<div class="two-column-content">
+<div class="narrow-content">
 
 # About Me
 

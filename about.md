@@ -3,7 +3,7 @@ layout: single
 title: About
 permalink: /about/
 ---
-<div class="narrow-content">
+<div class="two-column-content">
 
 # About Me
 

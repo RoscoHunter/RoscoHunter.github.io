@@ -12,5 +12,13 @@
   #   url: /sitemap/
 
 main:
+  - title: Home
+    url: /
   - title: About
     url: /about/
+  - title: CV
+    url: /cv/
+  - title: Research
+    url: /research/
+  - title: Reding
+    url: /reading/

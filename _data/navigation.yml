@@ -17,7 +17,7 @@ main:
   - title: About
     url: /about/
   - title: CV
-    url: RHCV.pdf
+    url: /RHCV.pdf
   - title: Research
     url: /research/
   - title: Reding

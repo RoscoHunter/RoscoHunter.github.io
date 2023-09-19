@@ -113,7 +113,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "rosco.hunter@googlemail.com"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rosco-hunter/"
 
 # Site Footer

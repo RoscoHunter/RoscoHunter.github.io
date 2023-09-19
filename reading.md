@@ -3,4 +3,9 @@ layout: single
 title: Reading
 permalink: /reading/
 ---
-Welcome to my personal page! My name is [Your Name], and I'm passionate about [your interests or field of study]. I created this website to share my thoughts, experiences, and insights with the world.
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=0.8">
+<p>PhD candidate in the AI Systems Lab at the University of Warwick, supervised by Dr Hongkai Wen. Current work focuses on automating the discovery of high-performance neural network architectures. General research interests encompass the underlying principles governing human and artificial intelligence, along with the policy implications of AI. </p>
+
+<p>Graduated with a First Class (85%) BSc in Mathematics from the University of Warwick, achieving a first in every module in every year, with module choices focusing on Machine Learning and Biological/Applied Dynamical Systems.</p>
+</head>

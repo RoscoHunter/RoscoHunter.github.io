@@ -5,7 +5,7 @@ permalink: /research/
 <h1>Publictions</h1>
 <p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b></p>
 <em><p style="font-size: 16px;">Lichuan Xiang*, <b>Rosco Hunter*</b>, Łukasz Dudziak*, Minghao Xu, Hongkai Wen.</p></em>
-<em><p style="font-size: 16px;">International Conference of Automated Machine Learning, 2023. (<b>Best Paper</b>)</p> </em>
+<em><p style="font-size: 16px;">International Conference of Automated Machine Learning, 2023. (<b>Best Paper</b>)</p></em>
 
 <h1>Neuroscience Project</h1>
 <p style="font-size: 16px;">Worked under the supervision of Prof. Edmund Rolls of the Oxford Centre of Computational Neuroscience measuring effective connectivity in the human connectome. Connectivity matrices were derived from a `Hopf Algorithm' composed of noisy coupled oscillators which modelled the 360 cortical regions in the HCP multimodal parcellation atlas.</p>

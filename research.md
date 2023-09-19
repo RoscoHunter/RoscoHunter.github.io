@@ -3,8 +3,8 @@ layout: single
 permalink: /research/
 ---
 <h1>Publictions</h1>
-<p>Exploiting Network Compressibility and Topology in Zero-Cost NAS.
-Lichuan Xiang*, <b>Rosco Hunter*</b>, Łukasz Dudziak*, Minghao Xu, Hongkai Wen.
+Exploiting Network Compressibility and Topology in Zero-Cost NAS. <br>
+Lichuan Xiang*, <b>Rosco Hunter*</b>, Łukasz Dudziak*, Minghao Xu, Hongkai Wen. <br>
 International Conference of Automated Machine Learning, 2023. (<b>Best Paper</b>)</p>
 
 <h1>Neuroscience Project</h1>

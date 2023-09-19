@@ -8,6 +8,6 @@ permalink: /research/
 <h1>Neuroscience Project</h1>
 <p>B</p>
 
-<h1>Articles/h1>
+<h1>Articles</h1>
 <p>C</p>
 

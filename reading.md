@@ -2,4 +2,4 @@
 layout: single
 permalink: /reading/
 ---
-<h1>Publications that Shaped My Work and Perspective</h1>
+<h1>Influential Works That Shape My Research</h1>

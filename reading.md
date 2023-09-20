@@ -2,7 +2,7 @@
 layout: single
 permalink: /reading/
 ---
-<h1>Influential Works That Shape My Thinking</h1>
+<h1>Ten Works That Shape My Thinking</h1>
 
 <p style="font-size: 16px;"><b>AutoML-zero</b><br>
 <em>.</em><br>

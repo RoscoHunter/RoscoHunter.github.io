@@ -9,9 +9,6 @@ permalink: /research/
 [<a href="../Paper.pdf">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>]
 </p>
 
-#<p style="font-size: 16px;"><b>Paper Summary</b>: We exploit redundancies in how networks learn and represent information to quickly predict their performance. Specifically,
-#we propose two routes for measuring compressibility - one looking at the gradients (learning), the other at activation patterns (representation).</p>
-
 <h1>Neuroscience Projects</h1>
 <p style="font-size: 16px;">Worked under the supervision of Prof. Edmund Rolls of the Oxford Centre of Computational Neuroscience measuring effective connectivity in the human connectome. Connectivity matrices were derived from a `Hopf Algorithm' composed of noisy coupled oscillators which modelled the cortical regions in the HCP multimodal parcellation atlas.</p>
 

@@ -2,7 +2,7 @@
 layout: single
 permalink: /reading/
 ---
-<h1>Works That Shaped My Perspectives</h1>
+<h1>Works That Shaped My Perspective</h1>
 
 <p style="font-size: 16px;"><b>The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks.</b><br>
 <em>Frankle, Jonathan, and Michael Carbin. ICLR, 2021.</em><br>

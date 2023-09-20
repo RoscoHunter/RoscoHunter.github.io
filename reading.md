@@ -28,7 +28,7 @@ permalink: /reading/
 <em>Lichuan Xiang*, <b>Rosco Hunter*</b>, Łukasz Dudziak*, Minghao Xu, Hongkai Wen.</em><br>
 <em>International Conference of Automated Machine Learning, 2023. (<b>Best Paper</b>)</em><br>
 
-<p style="font-size: 16px;"><b>Differential Equations, Dynamical Systems and an Introduction to Chaos.</b><br>
+<p style="font-size: 16px;"><b>Chaos.</b><br>
 <em>Lichuan Xiang*, <b>Rosco Hunter*</b>, Łukasz Dudziak*, Minghao Xu, Hongkai Wen.</em><br>
 <em>International Conference of Automated Machine Learning, 2023. (<b>Best Paper</b>)</em><br>
 

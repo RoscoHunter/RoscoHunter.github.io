@@ -2,4 +2,4 @@
 layout: single
 permalink: /reading/
 ---
-<p style="font-size: 16px;">Publications that have influned my work and thinking</p>
+<p style="font-size: 16px;">Publications that Shaped My Work and Perspective</p>

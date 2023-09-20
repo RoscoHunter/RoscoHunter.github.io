@@ -25,11 +25,11 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>Constitutional AI: Harmlessness from AI Feedback.</b><br>
 <em>Bai, Yuntao, et al. Anthropic, 2022.</em><br>
 
-<p style="font-size: 16px;"><b>Score-Based Generative Modelling Through Stochastic Differential Equations.</b><br>
-<em>Song, Yang, et al. ICLR, 2021.</em><br>
-
 <p style="font-size: 16px;"><b>Brain Computations: What and How.</b><br>
 <em>Rolls, Edmund T. Oxford University Press, 2021.</em><br>
 
 <p style="font-size: 16px;"><b>Gilles Deleuze: An Introduction</b><br>
 <em>May, Todd. Cambridge University Press, 2011.</em><br>
+
+<p style="font-size: 16px;"><b>Score-Based Generative Modelling Through Stochastic Differential Equations.</b><br>
+<em>Song, Yang, et al. ICLR, 2021.</em><br>

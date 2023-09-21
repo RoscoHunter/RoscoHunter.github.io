@@ -16,8 +16,8 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>Constitutional AI: Harmlessness from AI Feedback.</b><br>
 <em>Bai, Yuntao, et al. Anthropic, 2022.</em><br>
 
-<p style="font-size: 16px;"><b>Zero-Cost Proxies for Lightweight NAS.</b><br>
-<em>Abdelfattah, Mohamed S., et al. ICLR, 2019.</em><br>
+<p style="font-size: 16px;"><b>A Deeper Look at Zero-Cost Proxies for Lightweight NAS</b><br>
+<em>White, Colin, et al. ICLR, 2022.</em><br>
 
 <p style="font-size: 16px;"><b>Political Theory of the Digital Age: Where AI Might Take Us.</b><br>
 <em>Risse, Mathias. Cambridge University Press, 2023.</em><br>

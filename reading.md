@@ -22,9 +22,6 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>Political Theory of the Digital Age: Where AI Might Take Us.</b><br>
 <em>Risse, Mathias. Cambridge University Press, 2023.</em><br>
 
-<p style="font-size: 16px;"><b>Automl-Zero: Evolving Machine Learning Algorithms from Scratch.</b><br>
-<em>Real, Esteban, et al. ICML, 2020.</em><br>
-
 <p style="font-size: 16px;"><b>Score-Based Generative Modelling Through Stochastic Differential Equations.</b><br>
 <em>Song, Yang, et al. ICLR, 2021.</em><br>
 

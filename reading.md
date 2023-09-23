@@ -24,7 +24,3 @@ permalink: /reading/
 
 <p style="font-size: 16px;"><b>Score-Based Generative Modelling Through Stochastic Differential Equations.</b><br>
 <em>Song, Yang, et al. ICLR, 2021.</em><br>
-
-<p style="font-size: 16px;"><b>Toy Models of Superposition.</b><br>
-<em>Elhage, Nelson, et al. Anthropic, 2022.</em><br>
-

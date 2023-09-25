@@ -20,7 +20,6 @@ permalink: /research/
 <p style="font-size: 16px;">
 <a href="https://medium.com/@rosco.hunter/can-ai-transform-the-electorate-into-a-citizens-assembly-ea4950980726">Can AI Transform the Electorate into a Citizens Assembly?</a></p>
 
-<a href="[https://medium.com/@rosco.hunter/can-ai-transform-the-electorate-into-a-citizens-assembly-ea4950980726](https://medium.com/@rosco.hunter/automating-intelligence-a-cursory-glance-at-how-automl-brings-precision-to-ai-development-f55bb09be13c
-)https://medium.com/@rosco.hunter/automating-intelligence-a-cursory-glance-at-how-automl-brings-precision-to-ai-development-f55bb09be13c
-">Automating Intelligence: A Cursory Glance at How AutoML Brings Precision to AI Development</a></p>
+<a href="https://medium.com/@rosco.hunter/automating-intelligence-a-cursory-glance-at-how-automl-brings-precision-to-ai-development-f55bb09be13c
+">Automating Intelligence: A Cursory Glance at How AutoML Brings Precision to AI Development.</a></p>
 

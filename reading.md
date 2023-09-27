@@ -13,14 +13,19 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>Attention Approximates Sparse Distributed Memory.</b><br>
 <em>Bricken, Trenton, and Cengiz Pehlevan. NeurIPS, 2021.</em><br>
 
+<p style="font-size: 16px;"><b>Political Theory of the Digital Age: Where AI Might Take Us.</b><br>
+<em>Risse, Mathias. Cambridge University Press, 2023.</em><br>
+
 <p style="font-size: 16px;"><b>Constitutional AI: Harmlessness from AI Feedback.</b><br>
 <em>Bai, Yuntao, et al. Anthropic, 2022.</em><br>
 
 <p style="font-size: 16px;"><b>A Deeper Look at Zero-Cost Proxies for Lightweight NAS</b><br>
 <em>White, Colin, et al. ICLR, 2022.</em><br>
 
-<p style="font-size: 16px;"><b>Political Theory of the Digital Age: Where AI Might Take Us.</b><br>
-<em>Risse, Mathias. Cambridge University Press, 2023.</em><br>
-
 <p style="font-size: 16px;"><b>Score-Based Generative Modelling Through Stochastic Differential Equations.</b><br>
 <em>Song, Yang, et al. ICLR, 2021.</em><br>
+
+<p style="font-size: 16px;"><b>The Vulnerable World Hypothesis</b><br>
+<em>Bostrom, Nick. Global Policy, 2019.</em><br>
+
+

@@ -19,9 +19,6 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks</b><br>
 <em>Frankle, Jonathan, and Michael Carbin. ICLR, 2021.</em><br>
 
-<p style="font-size: 16px;"><b>Constitutional AI: Harmlessness from AI Feedback</b><br>
-<em>Bai, Yuntao, et al. Anthropic, 2022.</em><br>
-
 <p style="font-size: 16px;"><b>The Vulnerable World Hypothesis</b><br>
 <em>Bostrom, Nick. Global Policy, 2019.</em><br>
 

@@ -26,4 +26,4 @@ permalink: /reading/
 <em>Song, Yang, et al. ICLR, 2021.</em><br>
 
 <p style="font-size: 16px;"><b>Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution</b><br>
-<em>Fernando, Chrisantha, et al. arXiv:2309.16797 (2023).</em><br>
+<em>Fernando, Chrisantha, et al. arXiv:2309.16797, 2023.</em><br>

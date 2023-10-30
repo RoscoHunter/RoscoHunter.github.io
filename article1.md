@@ -13,12 +13,12 @@ A Citizens Assembly involves a small, randomly selected group of citizens tasked
 <p style="font-size: 16px;">Citizens assemblies engage everyday citizens in the political process beyond an infrequent and potentially disengaged act of voting. This fosters a deeper comprehension of legislation, bolsters government transparency, and cultivates a sense of democratic self-efficacy [4]. Moreover, the compromise required for a randomly selected group of individuals to reach a consensus provides an intuitive antidote to political polarisation. However, these advantages are inherently limited to the small group of citizens that partake in the assembly. Can we not extend a citizen’s assembly to encompass the whole electorate instead of just a small subset?<br>
 
 <p style="font-size: 16px;"><b>The Challenge of Scale.</b><br>
-There are two critical factors that impede our ability to extend citizen assemblies:<br>
+<p style="font-size: 16px;">There are two critical factors that impede our ability to extend citizen assemblies:<br>
 <ol>
-  <li>Information Overload: Humans are wired for small-group discussions; therefore, we’re unable to digest the contributions of the millions of interlocutors that inhabit our large-scale societies.</li>
-  <li>Insufficient Expertise: Experts lack the bandwidth to directly guide each member of the electorate to write informed and effective policies.</li>
+  <li><p style="font-size: 16px;">Information Overload: Humans are wired for small-group discussions; therefore, we’re unable to digest the contributions of the millions of interlocutors that inhabit our large-scale societies.</li>
+  <li><p style="font-size: 16px;">Insufficient Expertise: Experts lack the bandwidth to directly guide each member of the electorate to write informed and effective policies.</li>
 </ol>
-In the following section, we will explore how AI can address these challenges and augment assembly via a digital platform for the entire electorate. But what would such a platform look like?<br>
+<p style="font-size: 16px;">In the following section, we will explore how AI can address these challenges and augment assembly via a digital platform for the entire electorate. But what would such a platform look like?<br>
 <br>
 <p style="font-size: 16px;"><b>Addressing Insufficient Expertise with AI.</b><br>
 The concept of such a platform appears promising, especially when framed as a direct political analog to Wikipedia. However, crafting legislation is a significantly more complex process than constructing an encyclopaedia [6]. This complexity poses a challenge, given that most users lack the expert guidance required to craft effective policies. Fortunately, AI is once again well-suited to help and can assist users in productively engaging with their feed.><br>

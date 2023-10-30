@@ -17,7 +17,7 @@ permalink: /research/
 <h1>Articles</h1>
 <p style="font-size: 16px;"><a href="https://medium.com/@rosco.hunter/motivation-in-the-world-of-generative-ai-large-language-models-llms-have-witnessed-remarkable-3ba13e3554f6">LLMs — Pure Reason Without The Critique</a></p>
 
-<p style="font-size: 16px;"><a href="https://medium.com/@rosco.hunter/can-ai-transform-the-electorate-into-a-citizens-assembly-ea4950980726">Augmented Assembly: AI’s Role in Democratising Democracy?</a></p>
+<p style="font-size: 16px;"><a href="article1.md</a></p>
 
 <p style="font-size: 16px;"><a href="https://medium.com/@rosco.hunter/automating-intelligence-a-cursory-glance-at-how-automl-brings-precision-to-ai-development-f55bb09be13c">Automating Intelligence: How AutoML Brings Precision to AI Development</a></p>
 

@@ -15,8 +15,8 @@ A Citizens Assembly involves a small, randomly selected group of citizens tasked
 <p style="font-size: 16px;"><b>The Challenge of Scale.</b><br>
 <p style="font-size: 16px;">There are two critical factors that impede our ability to extend citizen assemblies:<br>
 <ol>
-  <li><p style="font-size: 16px;">Information Overload: Humans are wired for small-group discussions; therefore, we’re unable to digest the contributions of the millions of interlocutors that inhabit our large-scale societies.</li>
-  <li><p style="font-size: 16px;">Insufficient Expertise: Experts lack the bandwidth to directly guide each member of the electorate to write informed and effective policies.</li>
+  <p style="font-size: 16px;"><li>Information Overload: Humans are wired for small-group discussions; therefore, we’re unable to digest the contributions of the millions of interlocutors that inhabit our large-scale societies.</li>
+  <p style="font-size: 16px;"><li>Insufficient Expertise: Experts lack the bandwidth to directly guide each member of the electorate to write informed and effective policies.</li>
 </ol>
 <p style="font-size: 16px;">In the following section, we will explore how AI can address these challenges and augment assembly via a digital platform for the entire electorate. But what would such a platform look like?<br>
 <br>

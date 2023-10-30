@@ -18,9 +18,8 @@ A Citizens Assembly involves a small, randomly selected group of citizens tasked
 <li>Information Overload: Humans are wired for small-group discussions; therefore, we’re unable to digest the contributions of the millions of interlocutors that inhabit our large-scale societies.</li>
 <li>Insufficient Expertise: Experts lack the bandwidth to directly guide each member of the electorate to write informed and effective policies.</li>
 </ol>
-
 <p style="font-size: 16px;">In the following section, we will explore how AI can address these challenges and augment assembly via a digital platform for the entire electorate. But what would such a platform look like?<br>
-<br>
+
 <p style="font-size: 16px;"><b>Addressing Insufficient Expertise with AI.</b><br>
 The concept of such a platform appears promising, especially when framed as a direct political analog to Wikipedia. However, crafting legislation is a significantly more complex process than constructing an encyclopaedia [6]. This complexity poses a challenge, given that most users lack the expert guidance required to craft effective policies. Fortunately, AI is once again well-suited to help and can assist users in productively engaging with their feed.<br>
 
@@ -60,6 +59,6 @@ For more information on the consequences of LLMs in scalable deliberation, pleas
 <br>
 [10] Opportunities and Risks of LLMs for Scalable Deliberation with Polis. Christopher T. Small et al. arXiv:2306.11932 (2023) <br>
 
-<align="center">![Alt Text](art1.webp)
-<p align="center" style="font-size: 10px;">AI Generated Abstract Art Depicting An AI-Augmented Citizen’s Assembly (Augmented Assembly) 
-
+<p align="center">
+  <img src="/art1.webp" alt="Alt Text">
+</p>

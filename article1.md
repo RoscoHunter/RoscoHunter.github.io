@@ -14,14 +14,15 @@ A Citizens Assembly involves a small, randomly selected group of citizens tasked
 
 <p style="font-size: 16px;"><b>The Challenge of Scale.</b><br>
 <p style="font-size: 16px;">There are two critical factors that impede our ability to extend citizen assemblies:<br>
-<ol>
-  <p style="font-size: 16px;"><li>Information Overload: Humans are wired for small-group discussions; therefore, we’re unable to digest the contributions of the millions of interlocutors that inhabit our large-scale societies.</li>
-  <p style="font-size: 16px;"><li>Insufficient Expertise: Experts lack the bandwidth to directly guide each member of the electorate to write informed and effective policies.</li>
+<ol style="font-size: 16px;">
+<li>Information Overload: Humans are wired for small-group discussions; therefore, we’re unable to digest the contributions of the millions of interlocutors that inhabit our large-scale societies.</li>
+<li>Insufficient Expertise: Experts lack the bandwidth to directly guide each member of the electorate to write informed and effective policies.</li>
 </ol>
+
 <p style="font-size: 16px;">In the following section, we will explore how AI can address these challenges and augment assembly via a digital platform for the entire electorate. But what would such a platform look like?<br>
 <br>
 <p style="font-size: 16px;"><b>Addressing Insufficient Expertise with AI.</b><br>
-The concept of such a platform appears promising, especially when framed as a direct political analog to Wikipedia. However, crafting legislation is a significantly more complex process than constructing an encyclopaedia [6]. This complexity poses a challenge, given that most users lack the expert guidance required to craft effective policies. Fortunately, AI is once again well-suited to help and can assist users in productively engaging with their feed.><br>
+The concept of such a platform appears promising, especially when framed as a direct political analog to Wikipedia. However, crafting legislation is a significantly more complex process than constructing an encyclopaedia [6]. This complexity poses a challenge, given that most users lack the expert guidance required to craft effective policies. Fortunately, AI is once again well-suited to help and can assist users in productively engaging with their feed.<br>
 
 <p style="font-size: 16px;">Large Language Models* (LLMs), drawing upon an extensive knowledge base of historical legislation can guide citizens in writing policy proposals. Users can initiate this process by providing an informal statement on how an existing issue paper could be improved or enhanced. In response, the LLM would get to work, generating a series of detailed legislative changes (along with annotations) for the user to review. Once the user is satisfied with the proposed changes, they can choose to incorporate these informed recommendations into the public sphere.
   
@@ -58,3 +59,8 @@ For more information on the consequences of LLMs in scalable deliberation, pleas
 [9] Equal Credit Opportunity Act (ECOA) baseline review procedures. Consumer Financial Protection Bureau (2019) <br>
 <br>
 [10] Opportunities and Risks of LLMs for Scalable Deliberation with Polis. Christopher T. Small et al. arXiv:2306.11932 (2023) <br>
+
+<p align="center">
+  <img src="art1.webp" alt="Alt Text">
+  <p style="font-size: 6px;">AI Generated Abstract Art Depicting An AI-Augmented Citizen’s Assembly (Augmented Assembly) 
+</p>

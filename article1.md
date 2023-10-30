@@ -60,6 +60,6 @@ For more information on the consequences of LLMs in scalable deliberation, pleas
 <br>
 [10] Opportunities and Risks of LLMs for Scalable Deliberation with Polis. Christopher T. Small et al. arXiv:2306.11932 (2023) <br>
 
-![Alt Text](art1.webp){: .center}
+<align="center">![Alt Text](art1.webp)
 <p align="center" style="font-size: 10px;">AI Generated Abstract Art Depicting An AI-Augmented Citizen’s Assembly (Augmented Assembly) 
 

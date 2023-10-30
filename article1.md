@@ -1,5 +1,6 @@
 ---
 layout: single
+permalink: /article1/
 ---
 <h1>Augmented Assembly: AI’s Role in Democratising Democracy</h1>
 

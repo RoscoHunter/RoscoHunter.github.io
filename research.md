@@ -21,9 +21,6 @@ permalink: /research/
 
 <a href="/article1/" style="text-decoration: none; display: flex; align-items: center; padding: 10px; border: 1px solid #e1e1e1; border-radius: 4px;">
   <img src="art1.webp" alt="Image Description" style="width: 100px; height: 100px; margin-right: 10px; border-radius: 4px;">
-  <div>
-    <h2>Article1</h2>
-  </div>
 </a>
 
 <p style="font-size: 16px;"><a href="https://medium.com/@rosco.hunter/automating-intelligence-a-cursory-glance-at-how-automl-brings-precision-to-ai-development-f55bb09be13c">Automating Intelligence: How AutoML Brings Precision to AI Development</a></p>

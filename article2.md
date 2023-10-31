@@ -23,14 +23,14 @@ Much like humans can gain clarity by reframing a problem, the performance of LLM
 
 <p style="font-size: 16px;">Promptbreeder starts with a semi-random collection of prompts and progressively mutates them, retaining only the best, until it generates effective task-specific prompts. Leveraging the ability of transformers to rephrase ideas, an LLM is used to mutate the task-prompts by using a mutation-prompt such as “Make a variant of this prompt.” Notably, to avoid diminishing returns, Promptbreeder doesn’t solely improve task-prompts but also evolves better mutation-prompts, thereby enhancing its own prompt creation process. For those who are interested, a helpful diagram depicting this self-improvement process is located just after the conclusion. As a result of this highly self-referential search process, Promptbreeder was able to evolve detailed, effective prompts — the following example was produced to precede hate speech classification:
 
-<p style="font-size: 16px;">
+<p align="center">
   <img src="/art2_2.webp" alt="Alt Text">
 </p>
 
 <p style="font-size: 16px;"><b>Conclusion.</b><br>
 Both of these papers fold some form of self-critique into LLMs, encouraging deliberate reasoning. In doing so, they produce models that are more robust and reliable in their reasoning capacity. However, there remains considerable scope [6,7,8,9,10] for future research to facilitate a more general critique of pure reason in LLMs and, in doing so, produce the next generation of generative AI.
 
-<p style="font-size: 16px;">
+<p align="center">
   <img src="/art2_3.webp" alt="Alt Text">
 </p>
 

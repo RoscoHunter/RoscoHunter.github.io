@@ -17,7 +17,7 @@ permalink: /research/
 <p style="font-size: 16px;"><a href="/article3/">Automating Intelligence: How AutoML Brings Precision to AI Development</a></p>
 
 <div style="display: flex; border: 1px solid #ccc; padding: 10px; margin: 10px;">
-  <img src="art1.webp" alt="Image Description" style="max-width: 100px; margin-right: 10px;">
+  <img src="/art1.webp" alt="Image Description" style="max-width: 100px; margin-right: 10px;">
   <div>
     **Your Title Goes Here**
     Your short amount of text goes here.

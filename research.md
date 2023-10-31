@@ -16,13 +16,15 @@ permalink: /research/
 
 <p style="font-size: 16px;"><a href="/article3/">Automating Intelligence: How AutoML Brings Precision to AI Development</a></p>
 
+<a href="/article1/" style="text-decoration: none;">
 <div style="display: flex; border: 1px solid #ccc; padding: 10px; margin: 10px;">
-  <img src="/art1.webp" alt="Image Description" style="max-width: 100px; margin-right: 10px;">
+  <img src="/art1.webp" alt="Img1" style="max-width: 100px; margin-right: 10px;">
   <div>
-    **Your Title Goes Here**<br>
-    Your short amount of text goes here.
+    <b>Augmented Assembly: AI’s Role in Democratising Democracy**</b><br>
+    Motivation. At the outset of 2023, OpenAI unveiled GPT-4 [1], claiming it to be “at or beyond human-level ...
   </div>
 </div>
+</a>
 
 <p style="font-size: 16px;"><a href="/article4/">The Bostrom Buckle: Visualising the Vulnerable World Hypothesis</a></p>
 

@@ -13,7 +13,7 @@ A Citizens Assembly involves a small, randomly selected group of citizens tasked
 <p style="font-size: 16px;">Citizens assemblies engage everyday citizens in the political process beyond an infrequent and potentially disengaged act of voting. This fosters a deeper comprehension of legislation, bolsters government transparency, and cultivates a sense of democratic self-efficacy [4]. Moreover, the compromise required for a randomly selected group of individuals to reach a consensus provides an intuitive antidote to political polarisation. However, these advantages are inherently limited to the small group of citizens that partake in the assembly. Can we not extend a citizen’s assembly to encompass the whole electorate instead of just a small subset?<br>
 
 <p style="font-size: 16px;"><b>The Challenge of Scale.</b><br>
-<p style="font-size: 16px;">There are two critical factors that impede our ability to extend citizen assemblies:<br>
+There are two critical factors that impede our ability to extend citizen assemblies:<br>
 <ol style="font-size: 16px;">
 <li>Information Overload: Humans are wired for small-group discussions; therefore, we’re unable to digest the contributions of the millions of interlocutors that inhabit our large-scale societies.</li>
 <li>Insufficient Expertise: Experts lack the bandwidth to directly guide each member of the electorate to write informed and effective policies.</li>

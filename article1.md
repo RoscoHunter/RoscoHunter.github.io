@@ -38,7 +38,7 @@ Despite the potential benefits of our proposal, it is vital to recognise the ris
 <p style="font-size: 16px;"><b>*Footnote:</b>
 For more information on the consequences of LLMs in scalable deliberation, please see “Opportunities and Risks of LLMs for Scalable Deliberation with Polis.” [10]
 
-<p style="font-size: 16px;">References:<br>
+<p style="font-size: 16px;"><b>References.</b><br>
 [1] Open Democracy: Reinventing Popular Rule for the Twenty-First Century (Chapter 2). Helene Landemore. Princeton University Press (2020) <br>
 <br>
 [2] Social Media and Bullshit. Rasmus Kleis Nielsen. Social Media + Society (2015) <br>

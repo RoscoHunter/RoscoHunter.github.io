@@ -2,64 +2,54 @@
 layout: single
 permalink: /article3/
 ---
-<h1>Augmented Assembly: AI’s Role in Democratising Democracy</h1>
+<h1>Automating Intelligence: How AutoML Brings Precision to AI Development</h1>
 
-<p style="font-size: 16px;"><b>Introduction.</b><br>
-When at their best, democracies are able to transform diverse beliefs into effective real-world policies. This ideal is achievable when citizens are well-informed, engaged, and open [1]. However, these favourable democratic conditions are increasingly undermined by the rise of misinformation [2] and polarisation [3], fuelled by the influence of AI. In this article, we explore how AI may yet solve the very problems it’s created and, in doing so, modernise our democracies to meet the demands of the 21st century. Before we explore AI’s potential contributions, let’s first outline and critique an existing democratic structure that will be relevant to our proposal.<br>
+<p style="font-size: 16px;"><b>Motivation.</b><br>
+At the outset of 2023, OpenAI unveiled GPT-4 [1], claiming it to be “at or beyond human-level for many tasks… showing sparks of artificial general intelligence (AGI)”. This mirrors the breakthrough that marked the start of the 20th century when the Wright Brothers achieved the first sustained and controlled heavier-than-air powered flight [2,3]. In this article we will draw further parallels between artificial flight and intelligence to frame our progress on AI and offer insights into what’s to come. For example, early models in both fields were inspired by nature and limited to the most rudimentary of abilities. Aviation’s pioneers drew inspiration from bird wings for early gliders, and similarly, AI developers were initially inspired by biological neurons.<br>
 
-<p style="font-size: 16px;"><b>Citizens Assemblies: A Democratic Success Story.</b><br>
-A Citizens Assembly involves a small, randomly selected group of citizens tasked with formulating policy recommendations on specific issues. Following expert briefings and active group debate, these recommendations are distilled into policy proposals, which are submitted to parliament. Members of parliament then use their expertise to scrutinise these proposals before potentially enacting them as policy.<br>
+<p style="font-size: 16px;">After years of incremental advancements, the Wright Brothers and OpenAI demonstrated humanity’s capacity to compete with nature for the very first time — in the realms of flight and intelligence, respectively. Following the Wright brothers’ flight, aviation witnessed a surge of investment that turned aircraft production into a science. After AI’s “Chat-GPT” moment, a similar precision is now required to (carefully) fan the sparks of AGI. Enter Automated Machine Learning (AutoML), a field that aims to systematize and streamline the design of AI models. In this article, we will delve into two instances of AutoML, highlighting its impact on architecture design and learning algorithms. These examples will hopefully illustrate how AutoML is revolutionizing AI development, elevating it from the realm of hobbyist aircraft design to the precision of supersonic jet production.<br>
 
-<p style="font-size: 16px;">Citizens assemblies engage everyday citizens in the political process beyond an infrequent and potentially disengaged act of voting. This fosters a deeper comprehension of legislation, bolsters government transparency, and cultivates a sense of democratic self-efficacy [4]. Moreover, the compromise required for a randomly selected group of individuals to reach a consensus provides an intuitive antidote to political polarisation. However, these advantages are inherently limited to the small group of citizens that partake in the assembly. Can we not extend a citizen’s assembly to encompass the whole electorate instead of just a small subset?<br>
+<p style="font-size: 16px;"><b>Architecture Design.</b><br>
+Traditionally, AI models were hand-designed based on the judgments of seasoned AI researchers. A branch of AutoML, Neural Architecture Search (NAS), challenges this setup with a more rigorous framework, using methods like reinforcement learning [4] or gradient descent [5] to locate high-performance networks from a space of possible designs. Instead of relying on intuition or tedious human-made experiments, NAS automates the entire procedure by efficiently searching through the innumerate ways that network components can be combined [6]. However, during search, it typically needs to train the networks that it samples, thereby slowing the pace of development.<br>
 
-<p style="font-size: 16px;"><b>The Challenge of Scale.</b><br>
-There are two critical factors that impede our ability to extend citizen assemblies:<br>
-<ol style="font-size: 16px;">
-<li>Information Overload: Humans are wired for small-group discussions; therefore, we’re unable to digest the contributions of the millions of interlocutors that inhabit our large-scale societies.</li>
-<li>Insufficient Expertise: Experts lack the bandwidth to directly guide each member of the electorate to write informed and effective policies.</li>
-</ol>
-<p style="font-size: 16px;">In the following section, we will explore how AI can address these challenges and augment assembly via a digital platform for the entire electorate. But what would such a platform look like?<br>
+<p style="font-size: 16px;">In aircraft design, before costly human testing, prototypes are probed with wind tunnels or mathematical models. In the domain of network design, analogous techniques (Zero-cost NAS) are employed to cheaply assess prospective network designs without training them. Among these zero-cost methods is GenNAS [7], which could be described as the wind tunnel of network design. It uses a series of proxy tasks to quickly estimate an architecture’s ability to capture spectral and spatial information — aiming to approximate its post-training performance on real-world tasks.<br>
 
-<p style="font-size: 16px;"><b>Addressing Insufficient Expertise with AI.</b><br>
-The concept of such a platform appears promising, especially when framed as a direct political analog to Wikipedia. However, crafting legislation is a significantly more complex process than constructing an encyclopaedia [6]. This complexity poses a challenge, given that most users lack the expert guidance required to craft effective policies. Fortunately, AI is once again well-suited to help and can assist users in productively engaging with their feed.<br>
+<p style="font-size: 16px;">Another approach involves zero-cost metrics [8], which are formulas that analyse network characteristics before training. Specifically, these formulas probe the gradients and activations of a network at initialization in order to predict its performance after training — much like how mathematical equations for fluid-flow can be used as an estimate of an aircraft’s performance before it even flies. While many methods in NAS are still in their infancy, they lay the foundation for a more scientific approach to designing proficient and efficient neural networks.<br>
 
-<p style="font-size: 16px;">Large Language Models* (LLMs), drawing upon an extensive knowledge base of historical legislation can guide citizens in writing policy proposals. Users can initiate this process by providing an informal statement on how an existing issue paper could be improved or enhanced. In response, the LLM would get to work, generating a series of detailed legislative changes (along with annotations) for the user to review. Once the user is satisfied with the proposed changes, they can choose to incorporate these informed recommendations into the public sphere.
+<p style="font-size: 16px;"><b>Algorithm Design.</b><br>
+Even if a neural network is optimally designed, it relies on a learning algorithm, much like an aircraft relies on its propulsion system. Designing and fine-tuning these learning algorithms presents a significant challenge for Machine Learning. Once again, AutoML attempts to bring structure to this process. For example, a team at Google [9], employed symbolic evolution (AutoML) to generate novel learning algorithms. Their best algorithm, LION, consistently outperforms established approaches like AdamW, achieving an impressive 3x learning speedup in certain tasks.<br>
+  
+<p style="font-size: 16px;">Yet, even after establishing a sound learning strategy, there’s the task of fine-tuning a multitude of hyperparameters, including variables like the learning rate, momentum, batch size, etc. Currently, engineers ‘babysit’ GPTs [10] and make adjustments to their learning algorithm during training in an ad-hoc manner — an unsustainable and unscientific process. This is where a specialized branch of AutoML called Hyperparameter Optimization (HPO) comes into play. HPO typically employs Bayesian [11] or evolutionary [12] techniques to efficiently search for optimal hyperparameter settings, automating a once-imprecise human-dependent task. This automation in hyper-parameter selection not only saves time but also leads to improvements in model performance.<br>
   
 <p style="font-size: 16px;"><b>Conclusion.</b><br>
-Currently, AI in conjunction with our laissez faire approach to digital infrastructure is fuelling a retreat of democratic norms. However, this article has outlined an alternative path for AI’s role in our democracy, emphasising its potential to both mend and extend the sclerotic status quo. Specifically, we’ve proposed ways in which AI can overcome two of the major hurdles in extending the scope of citizen’s assemblies.
-
-<p style="font-size: 16px;">These changes would hopefully foster a dynamic relationship between citizens and policy-makers, instilling a stronger sense of ownership in the democratic process. However, as a powerful tool, AI can equally be used to silence, amplify, or distort the public voice [7,8]. Whether or not our greatest democratic hopes of a well-assembled electorate are realised ultimately rests in the hands of those who use, create, and oversee this technology.
-
-<p style="font-size: 16px;"><b>Ethical Concerns Regarding the Implementation.</b><br>
-Despite the potential benefits of our proposal, it is vital to recognise the risks of this ‘Augmented Assembly.’ One such challenge is the need to safeguard against foreign interference without compromising individuals’ privacy. Moreover, the political bias of LLMs could potentially influence individual users’ policy suggestions. Although our intention in this article wasn’t to provide a detailed plan for implementing our proposal, it may be valuable to briefly highlight example measures to tackle each of these challenges.
-
-<p style="font-size: 16px;">A rigorous citizen-verification process, coupled with the random allocation of anonymous profiles, is one potential balance between privacy and security. Additionally, an impartial oversight body with the capacity to probe the objectivity of LLMs in a manner analogous to ECOA [9] reviews could help to address political bias. These ethical safeguards are far from comprehensive, but they hopefully demonstrate that while these challenges are formidable, they are not insurmountable.
-
-<p style="font-size: 16px;"><b>*Footnote:</b>
-For more information on the consequences of LLMs in scalable deliberation, please see “Opportunities and Risks of LLMs for Scalable Deliberation with Polis.” [10]
+In summary, the pace at which Artificial Intelligence will advance remains uncertain, but it is clear that AutoML stands as an indispensable tool for shaping the future of AI systems. It brings precision and efficiency to our exploration of intelligence, which will hopefully mirror humanity’s journey from fragile manually-designed gliders to precise supersonic jets. If you are interested in exploring any of these ideas further then please check out the references for more in-depth information.
 
 <p style="font-size: 16px;"><b>References.</b><br>
-[1] Open Democracy: Reinventing Popular Rule for the Twenty-First Century (Chapter 2). Helene Landemore. Princeton University Press (2020) <br>
+[1] Bubeck, Sébastien, et al. “Sparks of artificial general intelligence: Early experiments with gpt-4.” arXiv preprint arXiv:2303.12712 (2023). <br>
 <br>
-[2] Social Media and Bullshit. Rasmus Kleis Nielsen. Social Media + Society (2015) <br>
+[2] Russell, Stuart J. “Artificial intelligence a modern approach.” Pearson Education (2010). <br>
 <br>
-[3] The MAD model of moral contagion: The role of motivation, attention, and design in the spread of moralised content online. William J. Brady et al. Perspectives on Psychological Science (2020) <br>
+[3] Culick, Fred. E. C. “The Wright brothers: first aeronautical engineers and test pilots.” AIAA (2003). <br>
 <br>
-[4] Jury service and electoral participation: A test of the participation hypothesis. John Gastil et al. The Journal of Politics (2008) <br>
+[4] Zoph, Barret, and Quoc V. Le. “Neural architecture search with reinforcement learning.” ICLR (2017). <br>
 <br>
-[5] To Thrive, Our Democracy Needs Digital Public Infrastructure. Eli Pariser and Danielle Allen. Politico (2021) <br>
+[5] Liu, Haoxiao, et al. “DARTS: Differentiable Architecture Search.” ICLR (2019). <br>
 <br>
-[6] Should we automate democracy? Johannes Himmelreich. Oxford Handbooks Online (2021) <br>
+[6] Dong, Xuanyi, et al. “NATS-Bench: Benchmarking nas algorithms for architecture topology and size.” Transactions on Pattern Analysis and Machine Intelligence (2021). <br>
 <br>
-[7] Will AI Make Democracy Obsolete? Theodore Lechterman. Public Ethics (2021) <br>
+[7] Li, Yuhong, et al. “Generic neural architecture search via regression.” NeurIPS (2021). <br>
 <br>
-[8] Political Theory of the Digital Age (Chapter 3). Mathias Risse. Cambridge University Press (2023) <br>
+[8] White, Colin, et al. “A Deeper Look at Zero-Cost Proxies for Lightweight NAS.” ICLR Blog Track (2022). <br>
 <br>
-[9] Equal Credit Opportunity Act (ECOA) baseline review procedures. Consumer Financial Protection Bureau (2019) <br>
+[9] Chen, Xiangning, et al. “Symbolic discovery of optimization algorithms.” arXiv preprint arXiv:2302.06675 (2023). <br>
 <br>
-[10] Opportunities and Risks of LLMs for Scalable Deliberation with Polis. Christopher T. Small et al. arXiv:2306.11932 (2023) <br>
-
+[10] OpenAI. “GPT-4 Technical Report.” arXiv preprint arXiv:2303.08774 (2023). <br>
+<br>
+[11] Snoek, Jasper, et al. “Practical Bayesian optimization of machine learning algorithms.” NeurIPS (2012). <br>
+<br>
+[12] Loshchilov, Ilya, and Frank Hutter. “CMA-ES for hyperparameter optimization of deep neural networks.” ICLR (2016). <br>
+  
 <p align="center">
-  <img src="/art1.webp" alt="Alt Text">
+  <img src="/art3.webp" alt="Alt Text">
 </p>
-<p align="center" style="font-size: 11px;"> AI Generated Abstract Art Depicting An AI-Augmented Citizen’s Assembly (Augmented Assembly) </p>
+<p align="center" style="font-size: 11px;"> An AI generated figure inspired by this article </p>

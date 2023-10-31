@@ -11,42 +11,53 @@ permalink: /research/
 
 <h1>Articles</h1>
 
+<!--
 <a href="/article2/" style="text-decoration: none;">
   <div style="display: flex; border: 3px solid #ccc; padding: 10px; margin: 10px;">
     <img src="/art2_4.webp" alt="Img1" style="max-width: 100px; margin-right: 10px;">
     <div>
       <b>LLMs — Pure Reason Without The Critique</b><br>
       <p style="font-size: 16px;">Introduction. When at their best, democracies are able to transform diverse beliefs into effective real-world policies. This ideal is achievable when citizens are well-informed, engaged, and open [1]. However, these favourable democratic conditions are increasingly undermined ...
+    </div>
+  </div>
 </a>
-<br>
-        
+-->
+
+<!--
 <a href="/article1/" style="text-decoration: none;">
   <div style="display: flex; border: 3px solid #ccc; padding: 10px; margin: 10px;">
     <img src="/art1.webp" alt="Img1" style="max-width: 100px; margin-right: 10px;">
     <div>
       <b>Augmented Assembly: AI’s Role in Democratising Democracy</b><br>
       <p style="font-size: 16px;">Introduction. When at their best, democracies are able to transform diverse beliefs into effective real-world policies. This ideal is achievable when citizens are well-informed, engaged, and open [1]. However, these favourable democratic conditions are increasingly undermined ...
+    </div>
+  </div>
 </a>
-<br>
+-->
 
-
+<!--
 <a href="/article3/" style="text-decoration: none;">
   <div style="display: flex; border: 3px solid #ccc; padding: 10px; margin: 10px;">
     <img src="/art3.webp" alt="Img1" style="max-width: 100px; margin-right: 10px;">
     <div>
       <b>Automating Intelligence: How AutoML Brings Precision to AI Development</b><br>
       <p style="font-size: 16px;">Introduction. When at their best, democracies are able to transform diverse beliefs into effective real-world policies. This ideal is achievable when citizens are well-informed, engaged, and open [1]. However, these favourable democratic conditions are increasingly undermined ...
+    </div>
+  </div>
 </a>
-<br>
+-->
 
+<!--
 <a href="/article4/" style="text-decoration: none;">
   <div style="display: flex; border: 3px solid #ccc; padding: 10px; margin: 10px;">
     <img src="/art4_3.webp" alt="Img1" style="max-width: 100px; margin-right: 10px;">
     <div>
       <b>The Bostrom Buckle: Visualising the Vulnerable World Hypothesis</b><br>
       <p style="font-size: 16px;">Introduction. When at their best, democracies are able to transform diverse beliefs into effective real-world policies. This ideal is achievable when citizens are well-informed, engaged, and open [1]. However, these favourable democratic conditions are increasingly undermined ...
+    </div>
+  </div>
 </a>
-<br>
+-->
 
 <h1>Neuroscience Projects</h1>
 <p style="font-size: 16px;">Worked under the supervision of Prof. Edmund Rolls of the Oxford Centre of Computational Neuroscience measuring effective connectivity in the human connectome. Connectivity matrices were derived from a `Hopf Algorithm' composed of noisy coupled oscillators which modelled the cortical regions in the HCP multimodal parcellation atlas.</p>

@@ -2,64 +2,58 @@
 layout: single
 permalink: /article4/
 ---
-<h1>Augmented Assembly: AI’s Role in Democratising Democracy</h1>
+<h1>The Bostrom Buckle: Visualising the Vulnerable World Hypothesis</h1>
 
-<p style="font-size: 16px;"><b>Introduction.</b><br>
-When at their best, democracies are able to transform diverse beliefs into effective real-world policies. This ideal is achievable when citizens are well-informed, engaged, and open [1]. However, these favourable democratic conditions are increasingly undermined by the rise of misinformation [2] and polarisation [3], fuelled by the influence of AI. In this article, we explore how AI may yet solve the very problems it’s created and, in doing so, modernise our democracies to meet the demands of the 21st century. Before we explore AI’s potential contributions, let’s first outline and critique an existing democratic structure that will be relevant to our proposal.<br>
+<p style="font-size: 16px;"><b>Motivation.</b><br>
+The mantra of Silicon Valley is to “move fast and break things”, with the assumption being that these breaks can be mended post-hoc. However, Nick Bostrom’s vulnerable world hypothesis (VWH) [1] presents a sobering alternative: There exist certain advanced technologies whose discovery would break society to a point of devastation. The VWH suggests that averting this devastation requires extreme societal changes, possibly even an all-encompassing surveillance state. But, how would we identify vulnerabilities and are there less drastic means to avert catastrophe? This article employs the concept of buckling to help visualise the VWH, thereby assisting policymakers in addressing these crucial questions. Before delving into the details, let’s explore a more mundane example of buckling.<br>
 
-<p style="font-size: 16px;"><b>Citizens Assemblies: A Democratic Success Story.</b><br>
-A Citizens Assembly involves a small, randomly selected group of citizens tasked with formulating policy recommendations on specific issues. Following expert briefings and active group debate, these recommendations are distilled into policy proposals, which are submitted to parliament. Members of parliament then use their expertise to scrutinise these proposals before potentially enacting them as policy.<br>
-
-<p style="font-size: 16px;">Citizens assemblies engage everyday citizens in the political process beyond an infrequent and potentially disengaged act of voting. This fosters a deeper comprehension of legislation, bolsters government transparency, and cultivates a sense of democratic self-efficacy [4]. Moreover, the compromise required for a randomly selected group of individuals to reach a consensus provides an intuitive antidote to political polarisation. However, these advantages are inherently limited to the small group of citizens that partake in the assembly. Can we not extend a citizen’s assembly to encompass the whole electorate instead of just a small subset?<br>
-
-<p style="font-size: 16px;"><b>The Challenge of Scale.</b><br>
-There are two critical factors that impede our ability to extend citizen assemblies:<br>
-<ol style="font-size: 16px;">
-<li>Information Overload: Humans are wired for small-group discussions; therefore, we’re unable to digest the contributions of the millions of interlocutors that inhabit our large-scale societies.</li>
-<li>Insufficient Expertise: Experts lack the bandwidth to directly guide each member of the electorate to write informed and effective policies.</li>
-</ol>
-<p style="font-size: 16px;">In the following section, we will explore how AI can address these challenges and augment assembly via a digital platform for the entire electorate. But what would such a platform look like?<br>
-
-<p style="font-size: 16px;"><b>Addressing Insufficient Expertise with AI.</b><br>
-The concept of such a platform appears promising, especially when framed as a direct political analog to Wikipedia. However, crafting legislation is a significantly more complex process than constructing an encyclopaedia [6]. This complexity poses a challenge, given that most users lack the expert guidance required to craft effective policies. Fortunately, AI is once again well-suited to help and can assist users in productively engaging with their feed.<br>
-
-<p style="font-size: 16px;">Large Language Models* (LLMs), drawing upon an extensive knowledge base of historical legislation can guide citizens in writing policy proposals. Users can initiate this process by providing an informal statement on how an existing issue paper could be improved or enhanced. In response, the LLM would get to work, generating a series of detailed legislative changes (along with annotations) for the user to review. Once the user is satisfied with the proposed changes, they can choose to incorporate these informed recommendations into the public sphere.
-  
-<p style="font-size: 16px;"><b>Conclusion.</b><br>
-Currently, AI in conjunction with our laissez faire approach to digital infrastructure is fuelling a retreat of democratic norms. However, this article has outlined an alternative path for AI’s role in our democracy, emphasising its potential to both mend and extend the sclerotic status quo. Specifically, we’ve proposed ways in which AI can overcome two of the major hurdles in extending the scope of citizen’s assemblies.
-
-<p style="font-size: 16px;">These changes would hopefully foster a dynamic relationship between citizens and policy-makers, instilling a stronger sense of ownership in the democratic process. However, as a powerful tool, AI can equally be used to silence, amplify, or distort the public voice [7,8]. Whether or not our greatest democratic hopes of a well-assembled electorate are realised ultimately rests in the hands of those who use, create, and oversee this technology.
-
-<p style="font-size: 16px;"><b>Ethical Concerns Regarding the Implementation.</b><br>
-Despite the potential benefits of our proposal, it is vital to recognise the risks of this ‘Augmented Assembly.’ One such challenge is the need to safeguard against foreign interference without compromising individuals’ privacy. Moreover, the political bias of LLMs could potentially influence individual users’ policy suggestions. Although our intention in this article wasn’t to provide a detailed plan for implementing our proposal, it may be valuable to briefly highlight example measures to tackle each of these challenges.
-
-<p style="font-size: 16px;">A rigorous citizen-verification process, coupled with the random allocation of anonymous profiles, is one potential balance between privacy and security. Additionally, an impartial oversight body with the capacity to probe the objectivity of LLMs in a manner analogous to ECOA [9] reviews could help to address political bias. These ethical safeguards are far from comprehensive, but they hopefully demonstrate that while these challenges are formidable, they are not insurmountable.
-
-<p style="font-size: 16px;"><b>*Footnote:</b>
-For more information on the consequences of LLMs in scalable deliberation, please see “Opportunities and Risks of LLMs for Scalable Deliberation with Polis.” [10]
-
-<p style="font-size: 16px;"><b>References.</b><br>
-[1] Open Democracy: Reinventing Popular Rule for the Twenty-First Century (Chapter 2). Helene Landemore. Princeton University Press (2020) <br>
-<br>
-[2] Social Media and Bullshit. Rasmus Kleis Nielsen. Social Media + Society (2015) <br>
-<br>
-[3] The MAD model of moral contagion: The role of motivation, attention, and design in the spread of moralised content online. William J. Brady et al. Perspectives on Psychological Science (2020) <br>
-<br>
-[4] Jury service and electoral participation: A test of the participation hypothesis. John Gastil et al. The Journal of Politics (2008) <br>
-<br>
-[5] To Thrive, Our Democracy Needs Digital Public Infrastructure. Eli Pariser and Danielle Allen. Politico (2021) <br>
-<br>
-[6] Should we automate democracy? Johannes Himmelreich. Oxford Handbooks Online (2021) <br>
-<br>
-[7] Will AI Make Democracy Obsolete? Theodore Lechterman. Public Ethics (2021) <br>
-<br>
-[8] Political Theory of the Digital Age (Chapter 3). Mathias Risse. Cambridge University Press (2023) <br>
-<br>
-[9] Equal Credit Opportunity Act (ECOA) baseline review procedures. Consumer Financial Protection Bureau (2019) <br>
-<br>
-[10] Opportunities and Risks of LLMs for Scalable Deliberation with Polis. Christopher T. Small et al. arXiv:2306.11932 (2023) <br>
+<p style="font-size: 16px;"><b>Introducing Buckling.</b><br>
+Picture yourself holding a standard plastic ruler between your hands [2] and applying some level of force to either end. For small forces, the ruler appears resilient as its straight form remains stable (A). In this low-force regime, a small perturbation to the ruler’s curvature is quickly resolved as the ruler snaps back into shape. However, there is a critical threshold at which the force becomes sufficient to provoke a dramatic change. At this point, the ruler succumbs to instability and buckles either downwards (B) or upwards (C). This illustrates how buckling can flip formerly stable states (a straight ruler) into instability while establishing new stable states (a curved ruler) that were previously unstable. Mathematicians would depict this in the diagram below.<br>
 
 <p align="center">
-  <img src="/art1.webp" alt="Alt Text">
+  <img src="/art4_1.webp" alt="Alt Text">
 </p>
-<p align="center" style="font-size: 11px;"> AI Generated Abstract Art Depicting An AI-Augmented Citizen’s Assembly (Augmented Assembly) </p>
+
+<p style="font-size: 16px;"><b>Buckling as a model of the VWH.</b><br>
+Using the framework of buckling, we condense the VWH into a simplified dynamical model of state power for various levels of technological progress. Here, the term “state power’’ is defined as the ability of the state to prevent and mitigate existential threats to its stability. The model shown in the diagram below suggests that in societies with modest technological progress, there exists a relatively stable level of state power that sits in a semi-anarchic (green) region. This semi-anarchic region represents a Goldilocks zone between absolute tyranny, where a collapse of the existing order seems implausible, and absolute anarchy, where a return to order appears equally improbable. But why should this stable level of state power emerge in the context of modest technological advancement?<br>
+
+<p align="center">
+  <img src="/art4_2.webp" alt="Alt Text">
+</p>
+
+<p style="font-size: 16px;">In the modest-technology regime, the state’s inability to tightly control the thoughts and actions of non-state actors limits its power. Given enough time, a state that has drifted towards tyranny will eventually ‘snap back into shape’ as a revolt upends the state order. On the other side, non-state actors generally lack the insight, organisation, and resources to easily diminish state power. This prevents terrorists and adversaries from threatening its existence on a daily basis, averting an overwhelming sense of anarchy. Even in cases where a state drifts towards anarchy, it is common for a strongman leader to eventually emerge and reinstate a diminished sense of state power. The stability described above mirrors how small deviations of the ruler’s curvature in the low-force regime swiftly self-correct.<br>
+
+<p style="font-size: 16px;"><b>Crossing the Threshold.</b><br>
+However, this stability extends only up to a certain technological threshold. What would the world look like upon crossing this threshold? Without a strong commitment to establishing global governance, it could descend into a geopolitical race for dominance. Advanced technologies would grant governments around the globe an unprecedented level of destructive power. As such, heads of state might perceive foreign entities with advanced technology as intolerable threats to their nations. This would compel them to subdue smaller powers and dethrone larger ones, gradually bringing more of the world under their control.<br>
+
+<p style="font-size: 16px;">Within their borders, some governments would shift toward tyranny [3], imposing mass-surveillance and a push for cultural homogeneity. Countries opposing this authoritarian shift, protecting privacy and individual freedoms, could descend into a state of anarchy. In the absence of surveillance*, increasingly sophisticated terrorist organisations could thrive, endangering the security of the state. In the absence of cultural homogeneity, advanced digital technologies like social media could fuel polarisation, fracturing pluralist nations. While we’ve refrained from directly speculating on the truth of the VWH, the description above resonates alarmingly [4,5] with present-day realities. Nonetheless, amidst these concerns, there remains a case for hope.<br>
+
+<p style="font-size: 16px;"><b>Policies.</b><br>
+Even if the buckling model proves accurate and our world has crossed the threshold, we can leverage this knowledge to avert the bleakest of futures. Unlike the ruler, which is purely bound by deterministic forces, our civilization has the capacity to push against the forces moving it toward undesirable futures. Thankfully, researchers are already working to understand how vulnerabilities can be prevented and mitigated. For example, Anderljung and Hazell [6] describe a ‘Misuse Chain’ that can aid policymakers in dealing with novel threats such as AI-assisted toxin synthesis. However, there is certainly more work to be done, and hopefully this article can add to these efforts.<br>
+  
+<p style="font-size: 16px;"><b>Conclusion.</b><br>
+While the “Bostrom Buckle” may not encapsulate the entirety of the VWH**, it provides a tangible means to visualize such an overbearing existential problem. Whether the VWH holds true or not, the need to safeguard our civilization against the pitfalls of advanced technology remains critical. Only through a concerted effort to anticipate and address these vulnerabilities can we hope to prevent our world from buckling under the weight of its own progress.<br>
+
+<p style="font-size: 16px;"><b>*Footnote:</b>
+Moreover, the gains in predictive capacity created by mass surveillance may make ‘private societies’ economically uncompetitive.<br>
+
+<p style="font-size: 16px;"><b>**Footnote:</b>
+The model doesn’t incorporate differential technological development. Furthermore, although it can easily incorporate Type 1, Type 2-a, and Type-2b vulnerabilities, it is not well suited to Type-0 vulnerabilities.<br>
+  
+<p style="font-size: 16px;"><b>References.</b><br>
+[1] Nick Bostrom. “The Vulnerable World Hypothesis.” Global Policy, 2019. <br>
+<br>
+[2] Christopher Zeeman. “Euler Buckling.” Warwick Mathematics Institute, 1976. <br>
+<br>
+[3] Yuval Noah Harari. “Technology favours Tyranny.” The Atlantic, 2018. <br>
+<br>
+[4] Moises Naim. “The Revenge of Tyranny.” The New European, 2022. <br>
+<br>
+[5] Ross Andersen. “The Panopticon is Already Here.” The Atlantic, 2020. <br>
+<br>
+[6] Anderljung, Markus, and Julian Hazell. “Protecting Society from AI Misuse: When are Restrictions on Capabilities Warranted?” Centre for the Governance of AI, 2023. <br>
+
+<p align="center">
+  <img src="/art4_3.webp" alt="Alt Text">
+</p>
+<p align="center" style="font-size: 11px;"> AI-generated art for this article </p>

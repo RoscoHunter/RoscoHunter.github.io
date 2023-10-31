@@ -11,14 +11,14 @@ The mantra of Silicon Valley is to “move fast and break things”, with the as
 Picture yourself holding a standard plastic ruler between your hands [2] and applying some level of force to either end. For small forces, the ruler appears resilient as its straight form remains stable (A). In this low-force regime, a small perturbation to the ruler’s curvature is quickly resolved as the ruler snaps back into shape. However, there is a critical threshold at which the force becomes sufficient to provoke a dramatic change. At this point, the ruler succumbs to instability and buckles either downwards (B) or upwards (C). This illustrates how buckling can flip formerly stable states (a straight ruler) into instability while establishing new stable states (a curved ruler) that were previously unstable. Mathematicians would depict this in the diagram below.<br>
 
 <p align="center">
-  <img src="/art4_1.webp" alt="Alt Text">
+  <img src="/art4_1.png" alt="Alt Text">
 </p>
 
 <p style="font-size: 16px;"><b>Buckling as a model of the VWH.</b><br>
 Using the framework of buckling, we condense the VWH into a simplified dynamical model of state power for various levels of technological progress. Here, the term “state power’’ is defined as the ability of the state to prevent and mitigate existential threats to its stability. The model shown in the diagram below suggests that in societies with modest technological progress, there exists a relatively stable level of state power that sits in a semi-anarchic (green) region. This semi-anarchic region represents a Goldilocks zone between absolute tyranny, where a collapse of the existing order seems implausible, and absolute anarchy, where a return to order appears equally improbable. But why should this stable level of state power emerge in the context of modest technological advancement?<br>
 
 <p align="center">
-  <img src="/art4_2.webp" alt="Alt Text">
+  <img src="/art4_2.png" alt="Alt Text">
 </p>
 
 <p style="font-size: 16px;">In the modest-technology regime, the state’s inability to tightly control the thoughts and actions of non-state actors limits its power. Given enough time, a state that has drifted towards tyranny will eventually ‘snap back into shape’ as a revolt upends the state order. On the other side, non-state actors generally lack the insight, organisation, and resources to easily diminish state power. This prevents terrorists and adversaries from threatening its existence on a daily basis, averting an overwhelming sense of anarchy. Even in cases where a state drifts towards anarchy, it is common for a strongman leader to eventually emerge and reinstate a diminished sense of state power. The stability described above mirrors how small deviations of the ruler’s curvature in the low-force regime swiftly self-correct.<br>

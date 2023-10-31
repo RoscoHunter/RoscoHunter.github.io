@@ -19,7 +19,7 @@ permalink: /research/
 
 <p style="font-size: 16px;"><a href="/article1/">Augmented Assembly: AI’s Role in Democratising Democracy</a></p>
 
-<p style="font-size: 16px;"><a href="https://medium.com/@rosco.hunter/automating-intelligence-a-cursory-glance-at-how-automl-brings-precision-to-ai-development-f55bb09be13c">Automating Intelligence: How AutoML Brings Precision to AI Development</a></p>
+<p style="font-size: 16px;"><a href="/article3/">Automating Intelligence: How AutoML Brings Precision to AI Development</a></p>
 
-<p style="font-size: 16px;"><a href="https://medium.com/@rosco.hunter/the-bostrom-buckle-visualising-the-vulnerable-world-hypothesis-ff96bc5e84ff">The Bostrom Buckle: Visualising the Vulnerable World Hypothesis</a></p>
+<p style="font-size: 16px;"><a href="/article4/">The Bostrom Buckle: Visualising the Vulnerable World Hypothesis</a></p>
 

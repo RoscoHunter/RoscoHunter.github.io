@@ -24,3 +24,7 @@ permalink: /reading/
 
 <p style="font-size: 16px;"><b>Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution</b><br>
 <em>Fernando, Chrisantha, et al. DeepMind, 2023.</em><br>
+
+<p style="font-size: 16px;"><b>The Statistical Thermodynamics of Generative Diffusion Models</b><br>
+<em>Ambrogioni, Luca. arXiv:2310.17467, 2023.</em><br>
+

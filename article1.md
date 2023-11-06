@@ -20,6 +20,11 @@ There are two critical factors that impede our ability to extend citizen assembl
 </ol>
 <p style="font-size: 16px;">In the following section, we will explore how AI can address these challenges and augment assembly via a digital platform for the entire electorate. But what would such a platform look like?<br>
 
+<p style="font-size: 16px;"><b>Addressing Information Overload with AI.</b><br>
+Imagine a platform akin to a political version of Wikipedia [5], where individuals have the opportunity not only to read but also to support, debate, and edit policy proposals. Within this vast digital landscape, citizens would likely encounter a barrage of content, making it difficult to navigate and participate effectively. Here, AI emerges as a natural solution for filtering this wealth of information.<br>
+
+<p style="font-size: 16px;">To better understand the role of AI in this digital ecosystem, we can draw a parallel with how users navigate social media platforms like Twitter. Instead of manually sifting through an endless stream of tweets, Twitter users are presented with an AI-curated feed that highlights the most relevant and engaging content. Similarly, AI can easily be employed to distil the digital citizens assembly into a digestible feed of chat rooms, petitions, and policy proposals. Notably, in contrast to Twitter, the underlying AI-algorithms need not maximise a profit incentive, but would ideally be fine-tuned to foster democratic norms.<br>
+
 <p style="font-size: 16px;"><b>Addressing Insufficient Expertise with AI.</b><br>
 The concept of such a platform appears promising, especially when framed as a direct political analog to Wikipedia. However, crafting legislation is a significantly more complex process than constructing an encyclopaedia [6]. This complexity poses a challenge, given that most users lack the expert guidance required to craft effective policies. Fortunately, AI is once again well-suited to help and can assist users in productively engaging with their feed.<br>
 

@@ -19,9 +19,6 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>The Vulnerable World Hypothesis</b><br>
 <em>Bostrom, Nick. Global Policy, 2019.</em><br>
 
-<p style="font-size: 16px;"><b>Score-Based Generative Modelling Through Stochastic Differential Equations</b><br>
-<em>Song, Yang, et al. ICLR, 2021.</em><br>
-
 <p style="font-size: 16px;"><b>Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution</b><br>
 <em>Fernando, Chrisantha, et al. DeepMind, 2023.</em><br>
 

@@ -63,3 +63,5 @@ For more information on the consequences of LLMs in scalable deliberation, pleas
   <img src="/art1.webp" alt="Alt Text">
 </p>
 <p align="center" style="font-size: 11px;"> AI Generated Abstract Art Depicting An AI-Augmented Citizen’s Assembly (Augmented Assembly) </p>
+
+<p align="center" style="font-size: 16px;"> August 2023 (Augmented Assembly) </p>

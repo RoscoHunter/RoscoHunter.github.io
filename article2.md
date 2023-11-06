@@ -43,18 +43,18 @@ Both of these papers fold some form of self-critique into LLMs, encouraging deli
 <br>
 [4] Cohen, Roi, et al. “LM vs LM: Detecting Factual Errors via Cross Examination.” arXiv:2305.13281 (2023). <br>
 <br>
-[5] Fernando, Chrisantha, et al. “Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution.” arXiv:2309.16797 (2023).<br>
+[5] Creswell, Antonia, Murray Shanahan, and Irina Higgins. “Selection-inference: Exploiting large language models for interpretable logical reasoning.” ICLR (2023).<br>
 <br>
-[6] Creswell, Antonia, Murray Shanahan, and Irina Higgins. “Selection-inference: Exploiting large language models for interpretable logical reasoning.” ICLR (2023).<br>
+[6] Dhuliawala, Shehzaad, et al. “Chain-of-Verification Reduces Hallucination in Large Language Models.” arXiv:2309.11495 (2023).<br>
 <br>
-[7] Dhuliawala, Shehzaad, et al. “Chain-of-Verification Reduces Hallucination in Large Language Models.” arXiv:2309.11495 (2023).<br>
+[7] Xue, Tianci, et al. “RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought.” arXiv:2305.11499 (2023).<br>
 <br>
-[8] Xue, Tianci, et al. “RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought.” arXiv:2305.11499 (2023).<br>
+[8] Bai, Yuntao, et al. “Constitutional ai: Harmlessness from ai feedback." arXiv:2212.08073 (2022).<br>
 <br>
-[9] Bai, Yuntao, et al. “Constitutional ai: Harmlessness from ai feedback.” arXiv:2212.08073 (2022).<br>
+[9] Beck, Jacob, et al. “A survey of meta-reinforcement learning.” arXiv:2301.08028 (2023).<br>
 <br>
-[10] Beck, Jacob, et al. “A survey of meta-reinforcement learning.” arXiv:2301.08028 (2023).<br>
-
+[10] Clune, Jeff. “AI-GAs: AI-generating algorithms, an alternate paradigm for producing general artificial intelligence.” arXiv:1905.10985 (2019).<br>
+<br>
 <p style="font-size: 16px;"> <b>Acknowledgments:</b> The title of this article was inspired by a Q and A session following a talk given by Dr. Beatrice Fazi at the Warwick CIM Conference 2023. The title is merely a play on words and the article, hopefully clearly, makes no attempt to discuss Kant’s work.
 <p align="center">
   <img src="/art2_4.webp" alt="Alt Text">

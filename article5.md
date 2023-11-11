@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /article4/
+permalink: /article5/
 ---
 <h1>Title</h1>
 

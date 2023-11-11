@@ -2,7 +2,7 @@
 layout: single
 permalink: /article4/
 ---
-<h1>The Bostrom Buckle: Visualising the Vulnerable World Hypothesis</h1>
+<h1>Title</h1>
 
 <p style="font-size: 16px;"><b>Introduction.</b><br>
 The rapid evolution of foundation models has led to a new era of AI [1] capabilities characterised by increasingly reliable and versatile reasoning. As these highly-capable models emerge, AI laboratories are divided on whether to restrict access or open-source them [2]. By openly publishing all of the relevant code and weights, open-sourced models foster collaborative innovation and the collective advancement of AI capabilities. Once released, they can be utilised, scrutinised, and customised by a global research community. <br>
@@ -70,9 +70,3 @@ Foundation Models: An Evaluation of Risks, Benefits, and Alternative Methods for
 [9] Anderljung and Hazell. “Protecting Society from AI Misuse: When are Restrictions on Capabilities Warranted?” Centre for the Governance of AI (2023). <br>
 <br>
 [10] Seger, et al. "Democratising ai: Multiple meanings, goals, and methods." AAAI Conference on AI, Ethics, and Society (2023). <br>
-
-<p align="center">
-  <img src="/art4_3.webp" alt="Alt Text">
-</p>
-<p align="center" style="font-size: 11px;"> AI-generated art for this article </p>
-<p style="font-size: 16px;"> October 2023 </p>

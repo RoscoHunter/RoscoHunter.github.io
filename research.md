@@ -13,6 +13,8 @@ permalink: /research/
 
 <p style="font-size: 16px;"><a href="/article2/" > LLMs — Pure Reason Without The Critique </a>
 
+<p style="font-size: 16px;"><a href="/article5/" > Natural Language Acess </a>
+
 <p style="font-size: 16px;"><a href="/article1/" > Augmented Assembly: AI’s Role in Democratising Democracy </a>
 
 <p style="font-size: 16px;"><a href="/article3/" > Automating Intelligence: How AutoML Brings Precision to AI Development </a>

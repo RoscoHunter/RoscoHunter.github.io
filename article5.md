@@ -14,7 +14,7 @@ Broadly speaking, highly capable foundation models currently fall into three tie
 <ol style="font-size: 16px;">
 <li>Closed models, like Gopher [4], keep their model entirely inaccessible beyond the lab or company that produced it.</li>
 <li>Queryable models, like Chat-GPT [5], can be prompted, with responses appearing on a user interface - but the code and weights are kept from the public domain.</li>
-<li>Open-source models, like GPT-J [6], make both the code and model weights publicly available.</li>
+<li>Open-Source models, like GPT-J [6], make both the code and model weights publicly available.</li>
 </ol>
 <p style="font-size: 16px;">But how do we determine the appropriate level of accessibility? To answer this, we must examine the challenges associated with each level of model access. <br>
 
@@ -32,7 +32,7 @@ Natural language access represents a fourth level of model accessibility that st
 
 <p style="font-size: 16px;">But how is this more customisable than a queryable approach? In a queryable model, a user can engage in a conversation with the user-interface to produce increasingly precise responses. However, these changes are transient, and the code itself is left unchanged by a user-specific conversation. In contrast, NLA involves a conversation aimed at producing lasting impacts to the model itself, rather than responding appropriately to a given set of prompts. These altered and customised models can be made accessible for the general public to utilise and scrutinise. In summary, unlike queryable approaches, in NLA models there is an option to permanently and systematically change the way that a model operates, perhaps for others to use as well. <br>
 
-<p style="font-size: 16px;">But how is this safer than an open source model? Although the public can still alter the code, we believe that NLA’s indirect approach is much less dangerous than the direct access provided by open-source models. To prevent undesirable customisations, NLA can restrict and safeguard the range of possible changes that the model can make to itself. This can range from narrow restrictions, like the GPT-store [8], to a slightly broader potential for self-improvement. Crucially, in NLA models, unlike open-source, alterations to the code can be monitored and constrained by the AI labs that produce them. As such, NLA retains the safety of queryable models while enabling a higher degree of customizability. <br>
+<p style="font-size: 16px;">But how is this safer than an open source model? Although the public can still alter the code, we believe that NLA’s indirect approach is much less dangerous than the direct access provided via open-sourcing To prevent undesirable customisations, NLA can restrict and safeguard the range of possible changes that the model can make to itself. This can range from narrow restrictions, like the GPT-store [8], to a slightly broader potential for self-improvement. Crucially, in NLA models, unlike open-source, alterations to the code can be monitored and constrained by the AI labs that produce them. As such, NLA retains the safety of queryable models while enabling a higher degree of customizability. <br>
   
 <p align="center">
   <img src="/art5_2.png" alt="Alt Text">

@@ -66,5 +66,3 @@ Foundation Models: An Evaluation of Risks, Benefits, and Alternative Methods for
 [8] OpenAI. “Introducing GPTs.” https://openai.com/blog/introducing-gpts (2023) - Vitised Nov 2023. <br>
 <br>
 [9] Anderljung and Hazell. “Protecting Society from AI Misuse: When are Restrictions on Capabilities Warranted?” Centre for the Governance of AI (2023). <br>
-<br>
-[10] Seger, et al. "Democratising ai: Multiple meanings, goals, and methods." AAAI Conference on AI, Ethics, and Society (2023). <br>

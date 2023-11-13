@@ -13,7 +13,7 @@ Foundation models have rapidly become reliable and versatile reasoning machines 
 Broadly speaking, highly capable foundation models currently fall into three tiers of accessibility [3]:<br>
 <ol style="font-size: 16px;">
 <li>Closed models, like Gopher [4], keep their model entirely inaccessible beyond the lab or company that produced it.</li>
-<li>Queryable models, like Chat-GPT [5], can be iteratively prompted, with responses appearing on a user interface - but the code and weights are kept from the public domain.</li>
+<li>Queryable models, like Chat-GPT [5], can be prompted, with responses appearing on a user interface - but the code and weights are kept from the public domain.</li>
 <li>Open-source models, like GPT-J [6], make both the code and model weights publicly available.</li>
 </ol>
 <p style="font-size: 16px;">But how do we determine the appropriate level of accessibility? To answer this, we must examine the challenges associated with each level of model access. <br>

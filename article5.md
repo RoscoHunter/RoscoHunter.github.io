@@ -39,7 +39,7 @@ NLA represents a fourth level of model accessibility that strikes a balance betw
 </p>
 
 <p style="font-size: 16px;"><b>Conclusion.</b><br>
-In relation to model access, developers and governments must thoughtfully consider the balance between democratisation, innovation, and safety. While closed models and open-source alternatives present distinct challenges, queryable models emerge as a somewhat safe but unadaptable compromise. Building upon this foundation, we introduce NLA as an innovation-friendly level of model accessibility. By retaining the safety features of queryable models while amplifying customisation, we hope that NLA will serve as an important tool for navigating the evolving landscape of increasingly capable foundation models. <br>
+In relation to model access, developers and governments must thoughtfully consider the balance between democratisation, innovation, and safety. While closed models and open-source alternatives present distinct challenges, queryable models emerge as a somewhat safe but unadaptable compromise. Building upon this foundation, we introduce NLA as an innovation-friendly level of model accessibility. By retaining the safety features of queryable models while improving customisation, we hope that NLA will serve as an important tool for navigating the evolving landscape of increasingly capable foundation models. <br>
 
 <p style="font-size: 16px;"><b>Footnote:</b>
 In this article, we excluded a discussion of gated access, in which architectures and weights are only made available to trusted groups. This decision stems from our belief that gated access is inherently unstable in the face of leaks or hacks and, as such, likely to collapse into an almost-completely closed or open-source state.<br>

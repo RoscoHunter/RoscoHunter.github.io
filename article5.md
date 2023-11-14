@@ -10,7 +10,7 @@ Foundation models have rapidly become reliable and versatile reasoning machines 
 <p style="font-size: 16px;">However, the openness of these models poses a challenge, as their release into the public domain makes it nearly impossible to prevent them from being misused by bad actors. For example, given an open-source model, terrorists can remove safeguards from the code or fine-tune the weights to help them identify and synthesise dangerous toxins [3].  This article aims to briefly outline typical approaches to model accessibility, ranging from tight restrictions to open-source availability. Additionally, we will introduce an approach we call Natural Language Access (NLA), which strikes a balance between the more open and closed levels of model access. <br>
 
 <p style="font-size: 16px;"><b>Categorising Model Access.</b><br>
-Broadly speaking, highly capable foundation models currently fall into three tiers of accessibility [4]:<br>
+Broadly speaking, foundation models currently fall into three tiers of accessibility [4]:<br>
 <ol style="font-size: 16px;">
 <li>Closed models, like Gopher [5], keep their model entirely inaccessible beyond the lab or company that produced it.</li>
 <li>Queryable models, like Chat-GPT [6], can be prompted, with responses appearing on a user interface - but the code and weights are kept from the public domain.</li>

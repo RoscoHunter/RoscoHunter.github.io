@@ -13,14 +13,11 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>A Deeper Look at Zero-Cost Proxies for Lightweight NAS</b><br>
 <em>White, Colin, et al. ICLR, 2022.</em><br>
 
-<p style="font-size: 16px;"><b>The Evolutionary Origins of Modularity</b><br>
-<em>Clune, Jeff. Proceedings of the Royal Society, 2013.</em><br>
-
 <p style="font-size: 16px;"><b>The Vulnerable World Hypothesis</b><br>
 <em>Bostrom, Nick. Global Policy, 2019.</em><br>
 
-<p style="font-size: 16px;"><b>Promptbreeder: Self-Referential Self-Improvement Via Prompt Evolution</b><br>
-<em>Fernando, Chrisantha, et al. DeepMind, 2023.</em><br>
+<p style="font-size: 16px;"><b>Toward a Connected Society</b><br>
+<em>Allen, Danielle. Princeton University Press, 2018.</em><br>
 
 <p style="font-size: 16px;"><b>The Statistical Thermodynamics of Generative Diffusion Models</b><br>
 <em>Ambrogioni, Luca. arXiv:2310.17467, 2023.</em><br>

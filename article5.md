@@ -53,7 +53,7 @@ In this article, we excluded a discussion of gated access, in which architecture
 [2] Seger, Dreksler, Moulange, Dardaman, Schuett, Wei, et al. “Open-Sourcing Highly Capable
 Foundation Models: An Evaluation of Risks, Benefits, and Alternative Methods for Pursuing Open-Source Objectives”. Centre for the Governance of AI (2023).<br>
 <br>
-[43] Trask, et al. “Beyond Privacy Trade-offs with Structured Transparency.” arXiv:2012.08347 (2020).<br>
+[3] Trask, et al. “Beyond Privacy Trade-offs with Structured Transparency.” arXiv:2012.08347 (2020).<br>
 <br>
 [4] Anderljung and Hazell. “Protecting Society from AI Misuse: When are Restrictions on Capabilities Warranted?” Centre for the Governance of AI (2023). <br>
 <br>

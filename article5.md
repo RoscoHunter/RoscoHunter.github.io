@@ -42,7 +42,7 @@ NLA represents a fourth level of model accessibility that strikes a balance betw
 In relation to model access, developers and governments must thoughtfully consider the balance between democratisation, innovation, and safety. While closed models and open-source alternatives present distinct challenges, queryable models emerge as a somewhat safe but unadaptable compromise. Building upon this foundation, we introduce NLA as an innovation-friendly level of model accessibility. By retaining the safety features of queryable models while improving customisation, we hope that NLA will serve as an important tool for navigating the evolving landscape of increasingly capable foundation models. <br>
 
 <p style="font-size: 16px;"><b>Footnote:</b>
-In this article, we excluded a discussion of gated access, in which architectures and weights are only made available to trusted groups. This decision stems from our belief that gated access is inherently unstable in the face of leaks or hacks and, as such, likely to collapse into an almost-completely closed or open-source state.<br>
+In this article, we excluded a discussion of gated access, in which architectures and weights are only made available to trusted groups. This decision stems from our belief that gated access is inherently unstable in the face of leaks or hacks [10] and, as such, likely to collapse into an almost-completely closed or open-source state.<br>
 
 <p style="font-size: 16px;"><b>Acknowledgements:</b>
  I would highly recommend “Open-Sourcing Highly Capable Foundation Models” [2] for more details on some of the topics discussed in this article. <br>
@@ -66,6 +66,9 @@ Foundation Models: An Evaluation of Risks, Benefits, and Alternative Methods for
 [8] Milmo. “Google engineer warns it could lose out to open-source technology in AI race.” The Guardian (2023). <br>
 <br>
 [9] OpenAI. “Introducing GPTs.” https://openai.com/blog/introducing-gpts (2023) - Vitised Nov 2023. <br>
+<br>
+[10] Trask, et al. “Beyond Privacy Trade-offs with Structured Transparency.” arXiv:2012.08347 (2020).
+
 
 <p align="center">
   <img src="/art5_3.png" alt="Alt Text">

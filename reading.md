@@ -16,7 +16,7 @@ permalink: /reading/
 <em>Bostrom, Nick. Global Policy, 2019.</em><br>
 
 <p style="font-size: 16px;"><b>Neural Tangent Kernel</b><br>
-<em>Jacot, Arthur, Franck Gabriel, and Clément Hongler. NeurIPS, 2018.</em><br>
+<em>Jacot, Arthur, et al. NeurIPS, 2018.</em><br>
 
 <p style="font-size: 16px;"><b>Toward a Connected Society</b><br>
 <em>Allen, Danielle. Princeton University Press, 2018.</em><br>

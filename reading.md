@@ -22,4 +22,5 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>Toward a Connected Society</b><br>
 <em>Allen, Danielle. Princeton University Press, 2018.</em><br>
 
-
+<p style="font-size: 16px;"><b>The Evolutionary Origins of Modularity</b><br>
+<em>Clune, Jeff, et al. Proceedings of the Royal Society, 2013.</em><br>

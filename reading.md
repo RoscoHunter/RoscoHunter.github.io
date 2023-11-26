@@ -3,7 +3,7 @@ layout: single
 permalink: /reading/
 ---
 <h1>Works That Shaped My Thinking</h1>
-<p style="font-size: 16px;"><b>Political Theory of the Digital Age: Where AI Might Take Us</b><br>
+<p style="font-size: 16px;"><b>Political Theory of the Digital Age</b><br>
 <em>Risse, Mathias. Cambridge University Press, 2023.</em><br>
 
 <p style="font-size: 16px;"><b>The Statistical Thermodynamics of Generative Diffusion Models</b><br>

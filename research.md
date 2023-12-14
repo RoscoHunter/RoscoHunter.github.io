@@ -3,7 +3,7 @@ layout: single
 permalink: /research/
 ---
 <h1>Publictions</h1>
-<p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
+<p style="font-size: 16px;"><b>Fast Inference Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
 <em>Authors: <b>Rosco Hunter*</b>, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen.</em><br>
 [<a href="../PHAST_Diffusion.pdf">Paper</a>]
 

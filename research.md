@@ -4,11 +4,11 @@ permalink: /research/
 ---
 <h1>Publictions</h1>
 <p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
-<em><b>Rosco Hunter*</b>, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen.</em><br>
+<em>Authors: <b>Rosco Hunter*</b>, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen.</em><br>
 [<a href="../PHAST_Diffusion.pdf">Paper</a>]
 
 <p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
-<em>Lichuan Xiang*, <b>Rosco Hunter*</b>, Łukasz Dudziak*, Minghao Xu, Hongkai Wen.</em><br>
+<em>Authors: Lichuan Xiang*, <b>Rosco Hunter*</b>, Łukasz Dudziak*, Minghao Xu, Hongkai Wen.</em><br>
 <em>International Conference of Automated Machine Learning, 2023. (<b>Awarded Best Paper</b>)</em><br>
 [<a href="../Paper.pdf">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] 
 </p>

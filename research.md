@@ -4,11 +4,11 @@ permalink: /research/
 ---
 <h1>AI Efficiency Research</h1>
 <p style="font-size: 16px;"><b>Fast Inference Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
-<em>Rosco Hunter*, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen.</em><br>
+<em>Rosco Hunter*, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen</em><br>
 [<a href="../PHAST_Diffusion.pdf">Paper</a>]
 
 <p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
-<em>Lichuan Xiang*, Rosco Hunter*, Łukasz Dudziak*, Minghao Xu, Hongkai Wen.</em><br>
+<em>Lichuan Xiang*, Rosco Hunter*, Łukasz Dudziak*, Minghao Xu, Hongkai Wen</em><br>
 [<a href="../Paper.pdf">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] 
 </p>
 

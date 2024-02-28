@@ -10,6 +10,9 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>Toolformer: Language Models Can Teach Themselves to Use Tools</b><br>
 <em>Timo Schick, et al. NeurIPS, 2023</em><br>
 
+<p style="font-size: 16px;"><b>Open-Sourcing Highly Capable Foundation Models</b><br>
+<em>Elizabeth Serger, et al. GovAI, 2023</em><br>
+
 <p style="font-size: 16px;"><b>Should we Automate Democracy?</b><br>
 <em>Johannes Himmelreich. The Oxford Handbook of Digital Ethics, 2022.</em><br>
   

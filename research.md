@@ -4,7 +4,7 @@ permalink: /research/
 ---
 <h1>AI Efficiency Research</h1>
 <p style="font-size: 16px;"><b>Fast Inference Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
-<b>Rosco Hunter*</b>, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen.<br>
+<em>Rosco Hunter*, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen.</em><br>
 [<a href="../PHAST_Diffusion.pdf">Paper</a>]
 
 <p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
@@ -14,11 +14,11 @@ permalink: /research/
 
 <h1>AI Policy Research</h1>
 <p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access.</b><br>
-<b>Rosco Hunter</b><br>
+Rosco Hunter<br>
 [<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]
 
 <p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds.</b><br>
-<b>Rosco Hunter</b><br>
+Rosco Hunter<br>
 [<a href="../RH_The_Buckling_World_Hypothesis.pdf">Draft Article</a>]
 
 <h1>Neuroscience Projects</h1>

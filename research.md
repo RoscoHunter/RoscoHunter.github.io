@@ -28,8 +28,5 @@ Rosco Hunter<br>
     <li><p style="font-size: 16px;">Neuroimage [<a href="https://www.oxcns.org/papers/654%20Rolls%20et%20al%202022%20Language%20Connectome.pdf">1</a>]
     <li><p style="font-size: 16px;">Human Brain Mapping [<a href="https://www.oxcns.org/papers/661%20Rolls%20Wirth%20et%20al%202023%20Posterior%20cingulate%20connectome,%20memory,%20and%20navigation.pdf">1</a>]
     <li><p style="font-size: 16px;">Progress in Neurobiology [<a href="https://www.oxcns.org/papers/665%20Rolls%20et%20al%202023%20Amygdala%20and%20orbitofrontal%20cortex%20connectivity,%20and%20emotion.pdf">1</a>]
-</ul>
- <br>
-<br>
 
 

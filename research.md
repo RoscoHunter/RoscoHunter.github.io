@@ -2,10 +2,24 @@
 layout: single
 permalink: /research/
 ---
-<h1>Publictions</h1>
+<h1>AI Efficiency Research</h1>
 <p style="font-size: 16px;"><b>Fast Inference Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
 <b>Rosco Hunter*</b>, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen.<br>
 [<a href="../PHAST_Diffusion.pdf">Paper</a>]
+
+<p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
+<em>Lichuan Xiang*, <b>Rosco Hunter*</b>, Łukasz Dudziak*, Minghao Xu, Hongkai Wen.</em><br>
+[<a href="../Paper.pdf">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] 
+</p>
+
+<h1>AI Policy Research</h1>
+<p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access.</b><br>
+<b>Rosco Hunter</b><br>
+[<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]
+
+<p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds.</b><br>
+<b>Rosco Hunter</b><br>
+[<a href="../RH_The_Buckling_World_Hypothesis.pdf">Draft Article</a>]
 
 <p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
 <em>Lichuan Xiang*, <b>Rosco Hunter*</b>, Łukasz Dudziak*, Minghao Xu, Hongkai Wen.</em><br>

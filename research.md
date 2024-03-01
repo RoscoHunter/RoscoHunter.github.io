@@ -2,7 +2,7 @@
 layout: single
 permalink: /research/
 ---
-<h1>AI Efficiency Research</h1>
+<h1>AI Efficiency and AutoML</h1>
 <p style="font-size: 16px;"><b>Fast Inference Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
 <em>Rosco Hunter*, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen</em><br>
 [<a href="../PHAST_Diffusion.pdf">Paper</a>]
@@ -12,7 +12,7 @@ permalink: /research/
 [<a href="../Paper.pdf">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] 
 </p>
 
-<h1>AI Policy and X-Risk Research</h1>
+<h1>AI Governance and X-Risk</h1>
 <p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access.</b><br>
 Rosco Hunter<br>
 [<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]
@@ -21,7 +21,7 @@ Rosco Hunter<br>
 Rosco Hunter<br>
 [<a href="../RH_The_Buckling_World_Hypothesis.pdf">Draft Article</a>]
 
-<h1>Neuroscience Research</h1>
+<h1>Neuroscience</h1>
 <p style="font-size: 16px;">Refined and analysed a computational model of cortical connectivity under the supervision of Prof. Edmund Rolls, leading to acknowledgements in a notable collection of ‘Effective Connectivity’ papers that have since accrued over 200 citations: 
 <ul>
     <li><p style="font-size: 16px;">Cerebral Cortex [<a href="https://www.oxcns.org/papers/647%20Rolls%20et%20al%202022%20Effective%20connectivity%20of%20the%20human%20hippocampus%20memory%20system.pdf">1</a>, <a href="https://www.oxcns.org/papers/660%20Rolls%20et%20al%202023%20Prefrontal%20and%20somatosensory%20cortex%20connectivity%20in%20humans.pdf"> 2</a>, <a href="https://www.oxcns.org/papers/655%20Rolls%20et%20al%202023%20Human%20posterior%20parietal%20cortex.pdf"> 3</a>, <a href="https://www.oxcns.org/papers/649%20Rolls%20et%20al%202023%20Human%20orbitofrontal%20cortex,%20vmPFC,%20and%20anterior%20cingulate%20cortex%20effective%20connectome.pdf"> 4</a>, <a href="https://www.oxcns.org/papers/678%20Rolls%20et%20al%202024%20Frontal%20Pole%20Cortex.pdf"> 5</a>, <a href="https://www.oxcns.org/papers/666%20Rolls%20Rauschecker%20et%20al%202023%20Auditory%20cortical%20connectivity%20in%20humans.pdf"> 6</a>]

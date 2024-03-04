@@ -6,5 +6,7 @@ main:
     url: /research/
   - title: Reading
     url: /reading/
+  - title: Principles
+    url: /principles/
   - title: CV
     url: /RHCV.pdf

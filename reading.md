@@ -25,8 +25,8 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>The Vulnerable World Hypothesis</b><br>
 <em>Nick Bostrom. Global Policy, 2019.</em><br>
 
-<p style="font-size: 16px;"><b>Explaining Grokking Through Circuit Efficiency</b><br>
-<em>Vikrant Varma, et al. ArXiv, 2023.</em><br>
-
 <p style="font-size: 16px;"><b>The Evolutionary Origins of Modularity</b><br>
 <em>Jeff Clune, et al. Proceedings of the Royal Society, 2013.</em><br>
+
+<p style="font-size: 16px;"><b>Grokking as the Transition from Lazy to Rich Training Dynamics</b><br>
+<em>Tanishq Kumar, et al. ArXiv, 2023.</em><br>

@@ -13,9 +13,6 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>Structured Access: An Emerging Paradigm for Safe AI Deployment</b><br>
 <em>Toby Shevlane. ArXiv, 2022.</em><br>
 
-<p style="font-size: 16px;"><b>Neural Tangent Kernel</b><br>
-<em>Arthur Jacot, et al. NeurIPS, 2018.</em><br>
-
 <p style="font-size: 16px;"><b>Should we Automate Democracy?</b><br>
 <em>Johannes Himmelreich. The Oxford Handbook of Digital Ethics, 2022.</em><br>
   

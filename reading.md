@@ -25,5 +25,5 @@ permalink: /reading/
 <p style="font-size: 16px;"><b>The Evolutionary Origins of Modularity</b><br>
 <em>Jeff Clune, et al. Proceedings of the Royal Society, 2013.</em><br>
 
-<p style="font-size: 16px;"><b>Grokking as the Transition from Lazy to Rich Training Dynamics</b><br>
-<em>Tanishq Kumar, et al. ArXiv, 2023.</em><br>
+<p style="font-size: 16px;"><b>Do Machine Learning Models Memorize or Generalize?</b><br>
+<em>Adam Pearce, et al. Google BlogPost, 2023.</em><br>

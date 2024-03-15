@@ -13,13 +13,13 @@ permalink: /research/
 </p>
 
 <h1>AI Governance and X-Risk</h1>
-<p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access.</b><br>
-Rosco Hunter<br>
-[<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]
-
 <p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds.</b><br>
 Rosco Hunter<br>
 [<a href="../RH_The_Buckling_World_Hypothesis.pdf">Draft Article</a>]
+  
+<p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access.</b><br>
+Rosco Hunter<br>
+[<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]
 
 <h1>Neuroscience</h1>
 <p style="font-size: 16px;">Refined and analysed a computational model of cortical connectivity under the supervision of Prof. Edmund Rolls, leading to acknowledgements in a notable collection of ‘Effective Connectivity’ papers that have since accrued over 200 citations: 

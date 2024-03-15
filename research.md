@@ -13,9 +13,9 @@ permalink: /research/
 </p>
 
 <h1>Existential Risk</h1>
-<p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds (Draft).</b><br>
+<p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds.</b><br>
 Rosco Hunter<br>
-[<a href="../RH_The_Buckling_World_Hypothesis.pdf">Article</a>]
+[<a href="../RH_The_Buckling_World_Hypothesis.pdf">Draft Article</a>]
 
 <h1>Neuroscience</h1>
 <p style="font-size: 16px;">Refined and analysed a computational model of cortical connectivity under the supervision of Prof. Edmund Rolls, leading to acknowledgements in a notable collection of ‘Effective Connectivity’ papers that have since accrued over 200 citations: 

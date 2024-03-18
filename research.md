@@ -15,11 +15,11 @@ permalink: /research/
 <h1>The Governance of AI</h1>
 <p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds.</b><br>
 Rosco Hunter<br>
-[<a href="../RH_The_Buckling_World_Hypothesis.pdf">Work-in-Progress, Early Draft</a>]
+[<a href="../RH_The_Buckling_World_Hypothesis.pdf">Initial Draft</a>]
 
 <p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access.</b><br>
 Rosco Hunter<br>
-[<a href="../RH_Conversational_Access.pdf">Work-in-Progress, Early Draft</a>]
+[<a href="../RH_Conversational_Access.pdf">Initial Draft</a>]
 
 <h1>The Neuroscience Behind AI</h1>
 <p style="font-size: 16px;">Contributed to (and acknowledged in) the following collection of ‘Effective Connectivity’ papers that have since accrued over 200 citations: 

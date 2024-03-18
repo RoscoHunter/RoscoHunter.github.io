@@ -17,7 +17,7 @@ permalink: /reading/
 <em>Toby Shevlane. ArXiv, 2022 [<a href="https://arxiv.org/pdf/2201.05159.pdf">pdf</a>]</em><br>
 
 <p style="font-size: 16px;"><b>Should we Automate Democracy?</b><br>
-<em>Johannes Himmelreich. The Oxford Handbook of Digital Ethics, 2022 [<a href="https://johanneshimmelreich.net/papers/automate-democracy.pdf">pdf</a>]</em><br>
+<em>Johannes Himmelreich. The Oxford Handbook of Digital Ethics, 2022 [<a href="https://johanneshimmelreich.net/papers/automate-democracy.pdf">pdf</a></em><br>
   
 <p style="font-size: 16px;"><b>Dissecting Adam: The Sign, Magnitude, and Variance of Stochastic Gradients</b><br>
 <em>Lukas Balles and Philipp Hennig. ICML, 2018 [<a href="https://arxiv.org/pdf/1705.07774.pdf">pdf</a>]</em><br>

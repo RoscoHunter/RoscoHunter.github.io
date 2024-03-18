@@ -20,13 +20,13 @@ permalink: /reading/
 <em>Eleanor Spens  & Neil Burgess. Nature Human Behaviour, 2024 [<a href="https://www.nature.com/articles/s41562-023-01799-z">pdf</a>]</em><br>
 
 <p style="font-size: 16px;"><b>Grokking as the Transition from Lazy to Rich Training Dynamics</b><br>
-<em>Tanishq Kumar, et al. ArXiv, 2023 [<a href="https://www.nature.com/articles/s41562-023-01799-z">pdf</a>]</em><br>
+<em>Tanishq Kumar, et al. ArXiv, 2023 [<a href="https://arxiv.org/pdf/2310.06110.pdf">pdf</a>]</em><br>
 
 <p style="font-size: 16px;"><b>Should we Automate Democracy?</b><br>
 <em>Johannes Himmelreich. The Oxford Handbook of Digital Ethics, 2022 [<a href="https://johanneshimmelreich.net/papers/automate-democracy.pdf">pdf</a>]</em><br>
 
 <p style="font-size: 16px;"><b>Why Think Step by Step? Reasoning Emerges from the Locality of Experience</b><br>
-<em>Ben Prystawski, et al. NeurIPS, 2023 [<a href="https://arxiv.org/pdf/2302.04761.pdf">pdf</a>]</em><br>
+<em>Ben Prystawski, et al. NeurIPS, 2023 [<a href="https://arxiv.org/pdf/2304.03843.pdf">pdf</a>]</em><br>
 
 <p style="font-size: 16px;"><b>Toy Models of Superposition</b><br>
 <em>Nelson Elhage, et al. ArXiv, 2022 [<a href="https://transformer-circuits.pub/2022/toy_model/index.html">pdf</a>]</em><br>

@@ -12,7 +12,7 @@ permalink: /principles/
 6. Don't lose yourself in fantasy or reality <br>
 7. Everyone should be held accountable for their actions <br>
 8. Accept what you can’t, or shouldn’t, control <br>
-9. People rarely deserve to fail but typically deserve their success 
-10. Don't do anything you wouldn’t tell a friend to do <br>
+9. People rarely deserve to fail but typically deserve their success <br>
+10. Don't do anything you wouldn’t tell a friend to do 
 
 

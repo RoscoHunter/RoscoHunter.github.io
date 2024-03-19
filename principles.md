@@ -5,8 +5,8 @@ permalink: /principles/
 <h1>My Principles for Life</h1>
 <p style="font-size: 16px;">
 1. Learn what, and how, to prioritise <br>
-2. Find strength in difference <br>
-3. Individuals are verbs, not nouns <br>
+2. Individuals are verbs, not nouns <br>
+3. Find strength in difference <br>
 4. Invest in meaningful connections <br>
 5. Everyone should be held accountable for their actions <br>
 6. Don't lose yourself in fantasy or reality <br>

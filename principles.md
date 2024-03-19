@@ -7,7 +7,7 @@ permalink: /principles/
 1. Learn what, and how, to prioritise <br>
 2. Find strength in difference <br>
 3. Individuals are verbs, not nouns <br>
-4. Foster meaningful connections <br>
+4. Invest in meaningful connections <br>
 5. Everyone should be held accountable for their actions <br>
 6. Don't lose yourself in fantasy or reality <br>
 7. Freedom requires self-discipline and self-reflection <br> 

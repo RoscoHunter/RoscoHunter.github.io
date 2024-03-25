@@ -17,7 +17,7 @@ permalink: /research/
 [<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]
 
 <p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds.</b><br>
-[<a href="../article4">Draft Article</a>]
+[<a href="../RH_The_Buckling_World_Hypothesis.pdf">Draft Article</a>]
 
 <p style="font-size: 16px;"><b>Augmented Assembly: AI’s Role in Democratising Democracy.</b><br>
 [<a href="../article1">Draft Article</a>]

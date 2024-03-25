@@ -2,7 +2,7 @@
 layout: single
 permalink: /research/
 ---
-<h1>The Efficiency of AI</h1>
+<h1>Technical AI Papers</h1>
 <p style="font-size: 16px;"><b>Fast Inference Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
 <em>Rosco Hunter*, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen</em><br>
 [<a href="../PHAST_Diffusion.pdf">Paper</a>]
@@ -12,14 +12,18 @@ permalink: /research/
 [<a href="../Paper.pdf">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] 
 </p>
 
-<h1>The Governance of AI</h1>
-<p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds.</b><br>
-Rosco Hunter<br>
-[<a href="../RH_The_Buckling_World_Hypothesis.pdf">Initial Draft</a>]
-
+<h1>Articles and Drafts</h1>
 <p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access.</b><br>
-Rosco Hunter<br>
-[<a href="../RH_Conversational_Access.pdf">Initial Draft</a>]
+[<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]
+
+<p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds.</b><br>
+[<a href="../article">Draft Article</a>]
+
+<p style="font-size: 16px;"><b>Augmented Assembly: AI’s Role in Democratising Democracy.</b><br>
+[<a href="../article1">Draft Article</a>]
+
+<p style="font-size: 16px;"><b>LLMs — Pure Reason Without The Critique.</b><br>
+[<a href="../article2">Draft Article</a>]
 
 <h1>The Neuroscience Behind AI</h1>
 <p style="font-size: 16px;">Contributed to (and acknowledged in) the following collection of ‘Effective Connectivity’ papers that have since accrued over 200 citations: 

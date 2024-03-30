@@ -9,17 +9,23 @@ permalink: /research/
 </p>
 
 <h1>Articles and Drafts</h1>
-<p style="font-size: 16px;"><b>Fast Inference Through The Reuse Of Attention Maps In Diffusion Models</b> [<a href="../PHAST_Diffusion.pdf">Draft Paper</a>]<br>
+<p style="font-size: 16px;"><b>Fast Inference Through The Reuse Of Attention Maps In Diffusion Models</b><br>
+[<a href="../PHAST_Diffusion.pdf">Draft Paper</a>]
 
-<p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access</b> [<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]<br>
+<p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access</b><br>
+[<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]
 
-<p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds</b> [<a href="../RH_The_Buckling_World_Hypothesis.pdf">Draft Article</a>]<br>
+<p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds</b><br>
+[<a href="../RH_The_Buckling_World_Hypothesis.pdf">Draft Article</a>]
 
-<p style="font-size: 16px;"><b>Augmented Assembly: AI’s Role in Democratising Democracy</b> [<a href="../article1">Draft Article</a>]<br>
+<p style="font-size: 16px;"><b>Augmented Assembly: AI’s Role in Democratising Democracy</b><br>
+[<a href="../article1">Draft Article</a>]
 
-<p style="font-size: 16px;"><b>LLMs — Pure Reason Without The Critique</b> [<a href="../article2">Draft Article</a>]<br>
+<p style="font-size: 16px;"><b>LLMs — Pure Reason Without The Critique</b><br>
+[<a href="../article2">Draft Article</a>]
 
-<p style="font-size: 16px;"><b>Automating Intelligence: How AutoML Brings Precision to AI Development</b> [<a href="../article3">Draft Article</a>]<br>
+<p style="font-size: 16px;"><b>Automating Intelligence: How AutoML Brings Precision to AI Development</b><br>
+[<a href="../article3">Draft Article</a>]
 
 <h1>Neuroscience Research</h1>
 <p style="font-size: 16px;">Contributed to (and acknowledged in) the following collection of ‘Effective Connectivity’ papers that have since accrued over 200 citations: 

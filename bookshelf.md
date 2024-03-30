@@ -2,7 +2,7 @@
 layout: single
 permalink: /bookshelf/
 ---
-<h1>My favourite papers, books and podcasts</h1>
+<h1>My favourite papers</h1>
 <p style="font-size: 16px;"><b>The Vulnerable World Hypothesis</b><br>
 <em>Nick Bostrom. Global Policy, 2019 [<a href="https://nickbostrom.com/papers/vulnerable.pdf">pdf</a>]</em><br>
 

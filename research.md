@@ -2,17 +2,16 @@
 layout: single
 permalink: /research/
 ---
-<h1>Technical AI Papers</h1>
-<p style="font-size: 16px;"><b>Fast Inference Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
-<em>Rosco Hunter*, Łukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen</em><br>
-[<a href="../PHAST_Diffusion.pdf">Paper</a>]
-
+<h1>AI Publications</h1>
 <p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
 <em>Lichuan Xiang*, Rosco Hunter*, Łukasz Dudziak*, Minghao Xu, Hongkai Wen</em><br>
 [<a href="../Paper.pdf">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] 
 </p>
 
 <h1>Articles and Drafts</h1>
+<p style="font-size: 16px;"><b>Fast Inference Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
+[<a href="../PHAST_Diffusion.pdf">Draft Paper</a>]
+  
 <p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access.</b><br>
 [<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]
 
@@ -24,6 +23,9 @@ permalink: /research/
 
 <p style="font-size: 16px;"><b>LLMs — Pure Reason Without The Critique.</b><br>
 [<a href="../article2">Draft Article</a>]
+
+<p style="font-size: 16px;"><b>Automating Intelligence: How AutoML Brings Precision to AI Development.</b><br>
+[<a href="../article3">Draft Article</a>]
 
 <h1>Neuroscience Research</h1>
 <p style="font-size: 16px;">Contributed to (and acknowledged in) the following collection of ‘Effective Connectivity’ papers that have since accrued over 200 citations: 

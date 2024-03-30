@@ -4,8 +4,8 @@ main:
     url: /
   - title: Research
     url: /research/
-  - title: Reading
-    url: /reading/
+  - title: Bookshelf
+    url: /bookshelf/
   - title: Principles
     url: /principles/
   - title: CV

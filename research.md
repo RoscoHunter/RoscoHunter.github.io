@@ -13,7 +13,7 @@ permalink: /research/
 [<a href="../PHAST_Diffusion.pdf">Draft Paper</a>]
 
 <p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access</b><br>
-[<a href="../RH_Conversational_Access.pdf">Draft Paper</a>]
+[<a href="../RH_Conversational_Access.pdf">Draft Article</a>]
 
 <p style="font-size: 16px;"><b>The Buckling World Hypothesis - Visualising Vulnerable Worlds</b><br>
 [<a href="../RH_The_Buckling_World_Hypothesis.pdf">Draft Article</a>]

@@ -8,11 +8,9 @@ permalink: /principles/
 2. Individuals are verbs, not nouns <br>
 3. Find strength in difference <br>
 4. Invest in meaningful connections <br>
-5. Everyone should be held accountable for their actions <br>
-6. Don't lose yourself in fantasy or reality <br>
-7. Freedom requires self-discipline and self-reflection <br> 
-8. Accept what you can’t, or shouldn’t, control <br>
-9. People rarely deserve to fail but typically deserve their success <br>
-10. Don't do anything you wouldn’t tell a friend to do 
+5. Don't lose yourself in fantasy or reality <br>
+6. Freedom requires self-discipline and self-reflection <br> 
+7. Accept what you can’t, or shouldn’t, control <br>
+8. Don't do anything you wouldn’t tell a friend to do 
 
 

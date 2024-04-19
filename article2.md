@@ -3,8 +3,7 @@ layout: single
 permalink: /article2/
 ---
 <h1>LLMs — Pure Reason Without The Critique</h1>
-<p style="font-size: 8px;"> October 2023 </p><br>
-
+<h2>October 2023</h2>
 <p style="font-size: 16px;"><b>Motivation.</b><br>
 In the world of generative AI, Large Language Models (LLMs) have witnessed remarkable progress [1] that has largely been driven by their use of attention blocks [2]. Attention enables LLMs to adapt their understanding of input information based on contextual cues, facilitating their general reasoning capabilities. Put simply, attention is how LLMs discern different meanings for ‘Apple’ in sentences like ‘Apple has exceptional touchscreen technology’ and ‘Apple pie is my favourite dessert’. Despite their remarkable abilities, LLMs occasionally generate content that ranges from being overly simplistic to outright harmful [3]. The dual nature of LLMs, marked equally by their intelligence and their ignorance, prompts us to question what factors are causing this unpredictability. <br>
 

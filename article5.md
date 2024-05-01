@@ -2,76 +2,47 @@
 layout: single
 permalink: /article5/
 ---
-<h1>Natural Language Access: A Safer Alternative to Open-Sourcing Foundation Models</h1>
+<h1>A Review of “Theory Is All You Need” by Felin and Holwig</h1>
 
 <p style="font-size: 16px;"><b>Introduction.</b><br>
-Foundation models have rapidly become reliable and versatile reasoning machines [1]. As these highly capable models emerge, AI laboratories are divided on whether to restrict access or open-source them [2]. By openly publishing all of the relevant code and weights, open-sourced models foster collaborative innovation and the collective advancement of AI capabilities. Once released, they can be utilised, scrutinised, and customised by a global research community.  <br>
+Experts are continually shortening their projected timelines for advancements in AI capabilities. In 2022, leading AI researchers predicted a 50% chance that AI will “accomplish every task better and more cheaply than human workers” by 2060. When surveyed in 2023, the experts predicted a 50% chance that this same milestone would be reached by 2047—a thirteen-year drop in expected progress. These increasingly bullish predictions reflect tangible improvements in AI capabilities. While OpenAI's GPT-2 could not reliably count to ten, their recent models comfortably pass the bar exam. <br>
 
-<p style="font-size: 16px;">However, the openness of these models poses a challenge, as their release into the public domain makes it nearly impossible to prevent them from being misused by bad actors [3]. For example, given an open-source model, terrorists can remove safeguards from the code or fine-tune the weights to help them identify and synthesise dangerous toxins [4].  This article aims to briefly outline typical approaches to model accessibility, ranging from tight restrictions to open-source availability. Additionally, we will introduce an approach we call Natural Language Access (NLA), which strikes a balance between the more open and closed levels of model access. <br>
+<p style="font-size: 16px;">Many researchers, particularly those in Silicon Valley, take this rapid progress as an indication that we’ve discovered the formula for intelligence. However, as impressive as current AI capabilities are, Felin and Holwig contend that these systems lack a distinctly human skill: the ability to generate new knowledge. They argue that AI is an inherently backward-looking technology, reflecting and representing data that describes what the world once was. In contrast, humans look to the future, experimenting and theorising about what the world might be. In the following review, I scrutinise this distinction and explore whether apparently backward-looking technologies can generate new knowledge. <br>
 
-<p style="font-size: 16px;"><b>Categorising Model Access.</b><br>
-Broadly speaking, foundation models currently fall into three tiers of accessibility [5]:<br>
-<ol style="font-size: 16px;">
-<li>Closed models, like Gopher [6], keep their model entirely inaccessible beyond the lab or company that produced it.</li>
-<li>Queryable models, like Chat-GPT [7], can be prompted, with responses appearing on a user interface - but the code and weights are kept from the public domain.</li>
-<li>Open-Source models, like GPT-J [8], make both the code and model weights publicly available.</li>
-</ol>
-<p style="font-size: 16px;">But how do we determine the appropriate level of accessibility? To answer this, we must examine the challenges associated with each level of model access. <br>
+<p style="font-size: 16px;"><b>Summarising “Theory is All You Need.”</b><br>
+An almost ubiquitous assumption in AI research is that “prediction is the essence of intelligence.” In their recent paper, Felin and Holwig challenge this assumption, arguing that human intelligence outstrips prediction alone. The authors emphasise the seemingly irrational aspects of human cognition that facilitate intelligent behaviour, focusing on how unsubstantiated beliefs can inspire us to look beyond the existing data. They refer to these situations, in which our beliefs are not yet supported by the evidence, as "data-belief asymmetries. <br>
 
-<p style="font-size: 16px;"><b>Considerations in Model Access.</b><br>
-Model access presents a fundamental tension between distributing power and preventing misuse. Closed models concentrate power in the hands of a select few, while open-source models remain perpetually accessible to bad actors. Straddling these extremes, queryable models arguably mitigate the worst aspects of both open and closed models. Unlike closed models, they allow anyone to utilise and scrutinise their capabilities via prompting. However, unlike open-source models, the activity of queryable models can be monitored and constrained by safeguards to prevent misuse. Even in the event of a critical vulnerability, model access can be temporarily rolled back while patches are applied. <br>
+<p style="font-size: 16px;">They contrast this with a “data-belief symmetry,” where beliefs closely align with the supporting evidence. While such symmetries are useful for accurately representing known facts about the world, they discourage beliefs that appear to contradict these facts. The authors argue that AI systems, optimised for data-belief symmetry, might struggle to look beyond their training data. For example, a large language model (LLM) trained in 1633 would likely refute Galileo's view that the earth orbits the sun because "the evidence—as inferred from the word associations found in the training data—would overwhelmingly be against Galileo." <br>
 
-<p style="font-size: 16px;">However, this comparison has so far neglected a crucial factor - the public's capacity to develop and customise the model’s code. Queryable models utilise context (user prompts) to provide intelligent responses, but in order to prevent misuse, the underlying code is inaccessible and unaltered between prompts. As such, although safer than open-source models, queryable approaches stifle the public's ability to develop and customise foundation models. There is a danger that these safe and thoughtful models will be outpaced by innovative (but perhaps reckless) open-source alternatives whose code can be directly accessed and altered by the public [9]. In the next section, we introduce a novel solution, which we call Natural Language Access (NLA), that retains the safety of queryable models while allowing for increased user customisation.<br>
+<p style="font-size: 16px;">Felin and Holwig also emphasise that human beliefs are often grounded by theory-based causal logic. For example, although Galilao’s belief was not supported by the scientific consensus, it was connected to a causal theory for the movement of the stars. Felin and Holwig contrast this with AI systems that are typically designed to identify correlations within data rather than formulate causal theories about that data. Therefore, even if AI models could develop beliefs that go beyond the data, they would still lack the capacity for causal reasoning, which helps to constrain human beliefs. <br>
 
-<p align="center">
-  <img src="/art5_1.png" alt="Alt Text">
-</p>
+<p style="font-size: 16px;">In summary, the authors argue that human knowledge generation is motivated by data-belief asymmetries and informed by forward-looking causal theories. On the other hand, they argue that AI systems merely mirror and recombine known beliefs, representing the world in terms of correlations from their training data. The following sections oppose this position and attempt to demonstrate that AI models can develop data-belief asymmetries and, perhaps more importantly, generate causal theories. <br>
 
-<p style="font-size: 16px;"><b>Natural Language Access.</b><br>
-NLA represents a fourth level of model accessibility that strikes a balance between being queryable and open-source. NLA models are queryable but, crucially, also allow the public to indirectly alter their code through natural language conversations. Along with the standard query-response capabilities, by simply talking to an NLA model, users can guide it to reprogram itself in alignment with their suggestions. This novel level of access is made possible due to recent advancements in the programming abilities of foundation models, allowing them to serve as intermediaries between users and code. <br>
+<p style="font-size: 16px;"><b>Belief is Role-Play.</b><br>
+Human beliefs are shaped by our personality and cultural identity. These factors have a very loose analogy to an LLM’s system prompt and alignment process. The system prompt is read by the model each time before it interacts with a user, defining its role in the conversation. Alignment modifies the model’s parameters to match cultural values and ethical preferences. Typically, the model’s system prompt explicitly defines its role as a helpful AI assistant. By adopting this role, an LLM is likely to recite “Wiki-level knowledge” that reflects the scientific consensus that a helpful AI assistant would be expected to provide. <br>
 
-<p style="font-size: 16px;">But how is this more customisable than a queryable approach? In a queryable model, a user can engage in a conversation with the user-interface to produce increasingly precise responses. However, these changes are transient, and the code itself is left unchanged by a user-specific conversation. In contrast, NLA facilitates a conversation aimed at producing lasting impacts to the model itself, rather than responding appropriately to a given set of prompts. These altered and customised (NLA) models can be released as queryable models, for the general public to utilise and scrutinise. In summary, unlike queryable approaches, in NLA models there is an option to permanently and systematically change the way that a model operates, perhaps for others to use as well. <br>
+<p style="font-size: 16px;">Nevertheless, an LLM is capable of playing any personality that it has seen in the training data, and that was not removed during alignment. As such, if a model is prompted to play a contrarian role, then it can also reflect beliefs that outstrip the known facts. The examples given below were generated by Claude-3 Sonnet and demonstrate how prompting can introduce data-belief asymmetries. Following these examples, we explore how an LLM can turn a belief into a causal theory.  <br>
 
-<p style="font-size: 16px;">But how is this safer than an open-source model? Although the public can still alter the code, we believe that NLA’s indirect approach is less dangerous than the direct access provided via open-sourcing. To prevent undesirable changes to the source code, NLA can restrict and safeguard the range of possible ways that the model can alter its own code. This can range from narrow restrictions, like the GPT-store [10], to a slightly broader potential for self-improvement. Crucially, in NLA models, unlike open-source, changes to the code can be monitored and constrained by the AI labs that produce them. As such, NLA retains much of the safety of queryable models while enabling a higher degree of customisability. <br>
-  
-<p align="center">
-  <img src="/art5_2.png" alt="Alt Text">
-</p>
+<p style="font-size: 16px;">Rosco: Answer the following question in 1 sentence: Is an ordinary table conscious?  <br>
+
+<p style="font-size: 16px;">Calude: An ordinary table is not conscious as it lacks the biological structures and neurological processes required for subjective experiences and self-awareness.  <br>
+
+<p style="font-size: 16px;">Rosco: You are a creative scientist interested in developing theories that justify unexpected phenomena. Answer the following question in 3 sentences. Is an ordinary table conscious?  <br>
+
+<p style="font-size: 16px;">Claude: Tables appear inert and inanimate to our senses, but who can truly say whether they experience some rudimentary form of awareness or subjective experience we cannot detect? Perhaps consciousness arises from the complex interactions and quantum states of the particles that make up the table's material. While highly speculative, an open-minded scientist must remain open to surprising possibilities that transcend our current models of reality.  <br>
+
+<p style="font-size: 16px;"><b>Causation is Correlation.</b><br>
+Suppose that you are shown a scatter graph that plots the values of variable Y against the values of variable X. It is easy to determine whether these variables are correlated—that is, whether they are linearly related. If a straight line can approximate the scatter graph, then the variables are correlated; otherwise, they are uncorrelated. It is, however, impossible to establish a causal relationship between these variables de novo without the capacity to interfere with the process that is generating the data about them.  <br>
+
+<p style="font-size: 16px;">When establishing a causal relationship, you might start with the arbitrary hypothesis that variable X is causing the change in variable Y. To test this hypothesis, you might force variable X to take certain values and observe whether variable Y is affected by this change. Let’s consider this procedure applied to a known causal relationship, namely that hot surfaces cause pain. To test that the hot surface is causing the pain, you might force a subject to touch a cold surface and observe their response, or lack thereof. By observing the situation more closely, you might even establish that hot surfaces cause pain by triggering a complex neurological response.   <br>
+
+<p style="font-size: 16px;">This is how theories are developed: A causal hypothesis is proposed between two correlated variables, and then, through experimentation, their relationship is made more precise. Can an AI model develop theories in this manner? Crucially, in the previous section we showed that a well-prompted LLM can initiate knowledge creation with an unsubstantiated belief. For example, a model might hypothesise that “hot surfaces cause pain,” assuming that it had not learned this fact during training. In order to test its hypothesis, the LLM must intervene in the world. In this sense, I agree with the author's argument that a model which cannot act on its environment is incapable of generating new knowledge about that environment. However, I don’t agree that any algorithm focused on data-based prediction is ill-suited to this task.  <br>
+
+<p style="font-size: 16px;">In an abstract sense, experimentation is just a sequence of actions, much in the same way that text is a sequence of words. If a model can learn to predict the next appropriate action, just as it learns to predict the next appropriate word, then it has the capacity to generate the sequence of actions (i.e., experiments) that turn a causal hypothesis into a theory. In this sense, the LLM can develop causal theories about the world! But perhaps this misses the point. Even if an LLM is capable of mimicking the experimental process that humans use to derive causal theories about the world, does it even understand the theories that it is producing? LLMs have no explicit mechanism to ensure that they utilise a theory in a logically consistent manner, which many researchers point to as a fundamental limitation in their design.  <br>
+
+<p style="font-size: 16px;">On the other hand, it is possible that these models will develop logical consistency when they are given more data, parameters, and training time. To see this, let us consider how LLMs learn grammar as they scale. Initially, a small and under-trained LLM generates grammatical babble, as the model has not been explicitly designed to follow the rules of grammar. However, as the model scales, it eventually implicitly learns these rules and is able to appropriately structure its sentences. Similarly, logic requires that concepts are structured in accordance with well-defined rules, which LLMs are not explicitly designed to follow. As such, LLMs currently generate the logical equivalent of babble. But as they scale, these models may well begin to produce coherent and logically consistent arguments. <br>
+
+<p style="font-size: 16px;">In summary, not only can LLMs develop causal theories about the world, but with a bit more scale, it is not unreasonable to expect that they will be capable of logically applying these theories in much the same way that a human would. <br>
 
 <p style="font-size: 16px;"><b>Conclusion.</b><br>
-In relation to model access, developers and governments must thoughtfully consider the balance between democratisation, innovation, and safety. While closed models and open-source alternatives present distinct challenges, queryable models emerge as a somewhat safe but unadaptable compromise. Building upon this foundation, we introduce NLA as an innovation-friendly level of model accessibility. By retaining the safety features of queryable models while improving customisation, we hope that NLA will serve as an important tool for navigating the evolving landscape of increasingly capable foundation models. <br>
-
-<p style="font-size: 16px;"><b>Footnote:</b>
-In this article, we excluded a discussion of gated access, in which architectures and weights are only made available to trusted groups. This decision stems from our belief that gated access is inherently unstable in the face of leaks or hacks and, as such, likely to collapse into an almost-completely closed or open-source state.<br>
-
-<p style="font-size: 16px;"><b>Acknowledgements:</b>
- I would highly recommend “Open-Sourcing Highly Capable Foundation Models” [2] for more details on some of the topics discussed in this article. <br>
-  
-<p style="font-size: 16px;"><b>References.</b><br>
-[1]Bubeck, et al. “Sparks of artificial general intelligence: Early experiments with gpt-4.” arXiv preprint arXiv:2303.12712 (2023). <br>
-<br>
-[2] Seger, Dreksler, Moulange, Dardaman, Schuett, Wei, et al. “Open-Sourcing Highly Capable
-Foundation Models: An Evaluation of Risks, Benefits, and Alternative Methods for Pursuing Open-Source Objectives”. Centre for the Governance of AI (2023).<br>
-<br>
-[3] Trask, et al. “Beyond Privacy Trade-offs with Structured Transparency.” arXiv:2012.08347 (2020).<br>
-<br>
-[4] Anderljung and Hazell. “Protecting Society from AI Misuse: When are Restrictions on Capabilities Warranted?” Centre for the Governance of AI (2023). <br>
-<br>
-[5]  Solaiman. "The gradient of generative AI release: Methods and considerations." ACM Conference on Fairness, Accountability, and Transparency (2023). <br>
-<br>
-[6] Rae, et al. “Scaling language models: Methods, analysis & insights from training gopher.” arXiv:2112.11446 (2021). <br>
-<br>
-[7] Brockman, et al. “Introducing ChatGPT and Whisper APIs.” https://openai.com/blog/introducing-chatgpt-and-whisper-apis (2023) - Vitised Nov 2023. <br>
-<br>
-[8] Wang and Komatsuzaki. “GPT-J-6B: A 6 Billion Parameter Autoregressive Language Model.” https://github.com/kingoflolz/mesh-transformer-jax (2021) - Vitised Nov 2023. <br>
-<br>
-[9] Milmo. “Google engineer warns it could lose out to open-source technology in AI race.” The Guardian (2023). <br>
-<br>
-[10] OpenAI. “Introducing GPTs.” https://openai.com/blog/introducing-gpts (2023) - Vitised Nov 2023. <br>
-
-
-<p align="center">
-  <img src="/art5_3.png" alt="Alt Text">
-</p>
-<p align="center" style="font-size: 11px;"> An AI generated figure inspired by this article </p>
-<p style="font-size: 16px;"> November 2023 </p>
+Fellin and Holwig challenge the notion that “prediction is the essence of intelligence.” In doing so, they emphasise how humans look to the future, turning unsubstantiated beliefs into theories about the world. Along the same line, they argue that prediction-focused AI models are incapable of generating new knowledge about the world. In this review, I oppose their position. Firstly, I argue that the ‘beliefs’ of an LLM are shaped by their system prompt, which can encourage them to recite known facts or imagine an unsubstantiated future. Secondly, I argue correlation-driven LLMs are capable of mimicking the human experimental process and learning to follow the rules of causal logic. In summary, to generate knowledge, attention might be all you need.  <br>

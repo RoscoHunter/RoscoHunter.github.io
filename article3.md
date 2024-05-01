@@ -53,4 +53,4 @@ In summary, the pace at which Artificial Intelligence will advance remains uncer
   <img src="/art3.webp" alt="Alt Text">
 </p>
 <p align="center" style="font-size: 11px;"> An AI generated figure inspired by this article </p>
-<p style="font-size: 16px;"> September 2023 </p>
+<p style="font-size: 16px;"> November 2023 </p>

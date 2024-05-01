@@ -3,17 +3,14 @@ layout: single
 permalink: /research/
 ---
 <h1>Papers</h1>
-<p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
+<p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS. [<a href="../ZC_NAS.pdf">pdf</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">talk</a>]</b><br>
 <em>Lichuan Xiang*, Rosco Hunter*, Łukasz Dudziak*, Minghao Xu, Hongkai Wen</em><br>
-[<a href="../ZC_NAS.pdf">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] </p>
-
-<p style="font-size: 16px;"><b>Fast Sampling Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
+  
+<p style="font-size: 16px;"><b>Fast Sampling Through The Reuse Of Attention Maps In Diffusion Models. [<a href="../PHAST_Diffusion.pdf">pdf</a>]</b><br>
 <em>Rosco Hunter*, Lukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen</em><br>
-[<a href="../PHAST_Diffusion.pdf">Paper</a>] </p>
 
-<p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access.</b><br>
+<p style="font-size: 16px;"><b>Releasing the Source Code of Language Models via Conversational Access. [<a href="../Conversational_Access.pdf">pdf</a>]</b><br>
 <em>Rosco Hunter</em><br>
-[<a href="../Conversational_Access.pdf">Paper</a>] </p>
 
 <h1>Articles</h1>
 <p style="font-size: 16px;"><a href="../article6">A Non-Technical Introduction to AI in 500 Words</a>

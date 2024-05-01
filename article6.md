@@ -25,9 +25,9 @@ If scientists completely understood the human body, they would be able to design
 AI can even learn to do more creative jobs, such as writing poetry. If an AI reads large amounts of poetry, it can learn the patterns that underpin human emotions, culture, and creativity. For example, I asked an AI to write a short poem about a Welsh Seaside Village (Abersoch) - in a few seconds it wrote this. <br>
   
 <p style="font-size: 16px;">
-In Abersoch, the salty breeze, <br>
-Carries laughter, sets souls at ease. <br>
-Seaside bliss, where worries fade, <br>
-Sun-kissed smiles, memories made. <br>
+<em>In Abersoch, the salty breeze,</em> <br>
+<em>Carries laughter, sets souls at ease.</em> <br>
+<em>Seaside bliss, where worries fade,</em> <br>
+<em>Sun-kissed smiles, memories made.</em> <br>
 
 <p style="font-size: 11px;"> Gif taken from Washington University Institute for Protein Design</p>

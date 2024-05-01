@@ -17,11 +17,9 @@ Medical scans visually represent the interior of a patient’s body, which can h
 <p style="font-size: 16px;"><b>Application 2 - Drug Discovery:</b><br>
 If scientists completely understood the human body, they would be able to design a drug to treat many more illnesses. However, the human body is unimaginably complex, making it hard to identify and design effective drugs. Even proteins (the building blocks of cells) behave in ways that scientists struggle to predict. By showing an AI model thousands of examples of proteins, it can learn to recognise the subtle patterns that govern their behaviour. The AI model can then use this knowledge to design new medicines, which humans might have struggled to discover. The animation below shows the creative process of an AI system imagining a new protein. It starts with a soup of disconnected amino acids (the building blocks of proteins) and gradually designs a protein that can bind to the target (pink) molecule. <br>
 
-
 <p align="center">
   <img src="/diffusion_PTH_binder_v2.gif" alt="Alt Text">
 </p>
-<p align="center" style="font-size: 11px;"> An AI generated figure inspired by this article </p>
 
 <p style="font-size: 16px;"><b>Application 3 - Writing Poetry:</b><br>
 AI can even learn to do more creative jobs, such as writing poetry. If an AI reads large amounts of poetry, it can learn the patterns that underpin human emotions, culture, and creativity. For example, I asked an AI to write a short poem about a Welsh Seaside Village (Abersoch) - in a few seconds it wrote this. <br>

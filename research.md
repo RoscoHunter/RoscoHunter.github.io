@@ -3,13 +3,13 @@ layout: single
 permalink: /research/
 ---
 <h1>Papers</h1>
-<p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS. </b>[<a href="../ZC_NAS.pdf">pdf</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">talk</a>]<br>
+<p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS </b>[<a href="../ZC_NAS.pdf">pdf</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">talk</a>]<br>
 <em>Lichuan Xiang*, Rosco Hunter*, Łukasz Dudziak*, Minghao Xu, Hongkai Wen</em><br>
   
-<p style="font-size: 16px;"><b>Fast Sampling Through The Reuse Of Attention Maps In Diffusion Models. </b>[<a href="../PHAST_Diffusion.pdf">pdf</a>]<br>
+<p style="font-size: 16px;"><b>Fast Sampling Through The Reuse Of Attention Maps In Diffusion Models </b>[<a href="../PHAST_Diffusion.pdf">pdf</a>]<br>
 <em>Rosco Hunter*, Lukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen</em><br>
 
-<p style="font-size: 16px;"><b>Releasing the Source Code of Language Models via Conversational Access. </b>[<a href="../Conversational_Access.pdf">pdf</a>]<br>
+<p style="font-size: 16px;"><b>Releasing the Source Code of Language Models via Conversational Access </b>[<a href="../Conversational_Access.pdf">pdf</a>]<br>
 <em>Rosco Hunter</em><br>
 
 <h1>Articles</h1>

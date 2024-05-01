@@ -46,3 +46,5 @@ Suppose that you are shown a scatter graph that plots the values of variable Y a
 
 <p style="font-size: 16px;"><b>Conclusion.</b><br>
 Fellin and Holwig challenge the notion that “prediction is the essence of intelligence.” In doing so, they emphasise how humans look to the future, turning unsubstantiated beliefs into theories about the world. Along the same line, they argue that prediction-focused AI models are incapable of generating new knowledge about the world. In this review, I oppose their position. Firstly, I argue that the ‘beliefs’ of an LLM are shaped by their system prompt, which can encourage them to recite known facts or imagine an unsubstantiated future. Secondly, I argue correlation-driven LLMs are capable of mimicking the human experimental process and learning to follow the rules of causal logic. In summary, to generate knowledge, attention might be all you need.  <br>
+
+<p style="font-size: 16px;"> April 2024 </p>

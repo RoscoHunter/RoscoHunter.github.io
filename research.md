@@ -2,18 +2,19 @@
 layout: single
 permalink: /research/
 ---
-<h1>AI Publications</h1>
+<h1>Papers</h1>
 <p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
 <em>Lichuan Xiang*, Rosco Hunter*, Łukasz Dudziak*, Minghao Xu, Hongkai Wen</em><br>
-[<a href="../Paper.pdf">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] 
-</p>
+[<a href="../ZC_NAS">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] </p>
 
-<h1>Articles and Drafts</h1>
-
-<p style="font-size: 16px;"><a href="../PHAST_Diffusion.pdf">Fast Inference Through The Reuse Of Attention Maps In Diffusion Models</a>
+<p style="font-size: 16px;"><b>Fast Sampling Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
+<em>Rosco Hunter*, Lukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen</em><br>
+[<a href="../PHAST_Diffusion.pdf">Paper</a>] </p>
 
 <p style="font-size: 16px;"><a href="../RH_Conversational_Access.pdf">Releasing the Source Code of Large Language Models via Conversational Access</a>
+<em>Rosco Hunter</em><br>
 
+<h1>Articles</h1>
 <p style="font-size: 16px;"><a href="../RH_The_Buckling_World_Hypothesis.pdf">The Buckling World Hypothesis - Visualising Vulnerable Worlds</a>
 
 <p style="font-size: 16px;"><a href="../article1">Augmented Assembly: AI’s Role in Democratising Democracy</a>

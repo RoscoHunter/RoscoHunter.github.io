@@ -11,8 +11,9 @@ permalink: /research/
 <em>Rosco Hunter*, Lukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen</em><br>
 [<a href="../PHAST_Diffusion.pdf">Paper</a>] </p>
 
-<p style="font-size: 16px;"><a href="../RH_Conversational_Access.pdf">Releasing the Source Code of Large Language Models via Conversational Access</a>
+<p style="font-size: 16px;"><b>Releasing the Source Code of Large Language Models via Conversational Access.</b><br>
 <em>Rosco Hunter</em><br>
+[<a href="../Conversational_Access.pdf">Paper</a>] </p>
 
 <h1>Articles</h1>
 <p style="font-size: 16px;"><a href="../RH_The_Buckling_World_Hypothesis.pdf">The Buckling World Hypothesis - Visualising Vulnerable Worlds</a>

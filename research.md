@@ -5,7 +5,7 @@ permalink: /research/
 <h1>Papers</h1>
 <p style="font-size: 16px;"><b>Exploiting Network Compressibility and Topology in Zero-Cost NAS.</b><br>
 <em>Lichuan Xiang*, Rosco Hunter*, Łukasz Dudziak*, Minghao Xu, Hongkai Wen</em><br>
-[<a href="../ZC_NAS">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] </p>
+[<a href="../ZC_NAS.pdf">Paper</a>]  [<a href="../AutoML_Poster.pdf">Poster</a>]  [<a href="https://www.youtube.com/watch?v=bypTOrUDlnU">Video</a>] [<a href="https://www.youtube.com/watch?v=y-skTMWiZS0">Best Paper Talk</a>] </p>
 
 <p style="font-size: 16px;"><b>Fast Sampling Through The Reuse Of Attention Maps In Diffusion Models.</b><br>
 <em>Rosco Hunter*, Lukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen</em><br>

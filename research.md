@@ -20,7 +20,7 @@ permalink: /research/
 
 <p style="font-size: 16px;"><a href="../article5">A Review of “Theory Is All You Need” by Felin and Holwig</a>
 
-<p style="font-size: 16px;"><a href="../article4">The Buckling World Hypothesis - Visualising Vulnerable Worlds</a>
+<p style="font-size: 16px;"><a href="../article4">The Buckling World Hypothesis — Visualising Vulnerable Worlds</a>
 
 <p style="font-size: 16px;"><a href="../article3">Automating Intelligence: How AutoML Brings Precision to AI Development</a>
 

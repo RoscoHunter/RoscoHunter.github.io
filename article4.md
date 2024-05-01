@@ -55,4 +55,4 @@ Our model favours simplicity and, in doing so, overlooks some aspects of the VWH
   <img src="/art4_3.webp" alt="Alt Text">
 </p>
 <p align="center" style="font-size: 11px;"> AI-generated art for this article </p>
-<p style="font-size: 16px;"> October 2023 </p>
+<p style="font-size: 16px;"> November 2023 </p>

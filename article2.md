@@ -62,4 +62,4 @@ Both of these papers fold some form of self-critique into LLMs, encouraging deli
  </p>
 </p>
 
-<p style="font-size: 16px;"> August 2023 </p>
+<p style="font-size: 16px;"> October 2023 </p>

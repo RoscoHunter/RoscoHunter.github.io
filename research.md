@@ -9,9 +9,6 @@ permalink: /research/
 <p style="font-size: 16px;"><b>Fast Sampling Through The Reuse Of Attention Maps In Diffusion Models </b>[<a href="../PHAST_Diffusion.pdf">pdf</a>]<br>
 <em>Rosco Hunter*, Lukasz Dudziak*, Mohamed S. Abdelfattah, Abhinav Mehrotra, Sourav Bhattacharya, Hongkai Wen</em><br>
 
-<p style="font-size: 16px;"><b>Releasing the Source Code of Language Models via Conversational Access </b>[<a href="../Conversational_Access.pdf">pdf</a>]<br>
-<em>Rosco Hunter</em><br>
-
 <h1>Articles</h1>
 <p style="font-size: 16px;"><a href="../article6">A VERY simple introduction to AI in 500 Words</a>
 

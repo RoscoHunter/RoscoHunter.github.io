@@ -35,13 +35,11 @@ Currently, AI in conjunction with our laissez faire approach to digital infrastr
 
 <p style="font-size: 16px;">These changes would hopefully foster a dynamic relationship between citizens and policy-makers, instilling a stronger sense of ownership in the democratic process. However, as a powerful tool, AI can equally be used to silence, amplify, or distort the public voice [7,8]. Whether or not our greatest democratic hopes of a well-assembled electorate are realised ultimately rests in the hands of those who use, create, and oversee this technology.
 
-<p style="font-size: 16px;"><b>Ethical Concerns Regarding the Implementation.</b><br>
-Despite the potential benefits of our proposal, it is vital to recognise the risks of this ‘Augmented Assembly.’ One such challenge is the need to safeguard against foreign interference without compromising individuals’ privacy. Moreover, the political bias of LLMs could potentially influence individual users’ policy suggestions. Although our intention in this article wasn’t to provide a detailed plan for implementing our proposal, it may be valuable to briefly highlight example measures to tackle each of these challenges.
-
-<p style="font-size: 16px;">Upon joining the paltform, a rigorous citizen-verification process, coupled with the random allocation of anonymous profiles, is one potential balance between privacy and security. Additionally, an impartial oversight body with the capacity to probe the objectivity of LLMs in a manner analogous to ECOA [9] reviews could help to address political bias. These ethical safeguards are far from comprehensive, but they hopefully demonstrate that while these challenges are formidable, they are not insurmountable.
+<p style="font-size: 16px;"><b>Ethical Concerns.</b><br>
+Despite the potential benefits of our proposal, it is vital to recognise the risks of this ‘Augmented Assembly.’ One such challenge is the need to safeguard against foreign interference without compromising individuals’ privacy. Moreover, the political bias of LLMs could potentially influence individual users’ policy suggestions.
 
 <p style="font-size: 16px;"><b>*Footnote:</b>
-For more information on the consequences of LLMs in scalable deliberation, please see “Opportunities and Risks of LLMs for Scalable Deliberation with Polis.” [10]
+For more information on the consequences of LLMs in scalable deliberation, please see “Opportunities and Risks of LLMs for Scalable Deliberation with Polis.” [9]
 
 <p style="font-size: 16px;"><b>References.</b><br>
 [1] Open Democracy: Reinventing Popular Rule for the Twenty-First Century (Chapter 2). Helene Landemore. Princeton University Press (2020) <br>
@@ -60,9 +58,7 @@ For more information on the consequences of LLMs in scalable deliberation, pleas
 <br>
 [8] Political Theory of the Digital Age (Chapter 3). Mathias Risse. Cambridge University Press (2023) <br>
 <br>
-[9] Equal Credit Opportunity Act (ECOA) baseline review procedures. Consumer Financial Protection Bureau (2019) <br>
-<br>
-[10] Opportunities and Risks of LLMs for Scalable Deliberation with Polis. Christopher T. Small et al. arXiv:2306.11932 (2023) <br>
+[9] Opportunities and Risks of LLMs for Scalable Deliberation with Polis. Christopher T. Small et al. arXiv:2306.11932 (2023) <br>
 
 <p align="center">
   <img src="/art1.webp" alt="Alt Text">

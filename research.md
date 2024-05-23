@@ -24,10 +24,10 @@ permalink: /research/
 
 <h1>Additional Research</h1>
 <p style="font-size: 16px;">I refined a causal model of the human connectome at the Oxford Centre for Computational Neuroscience. My contribution was acknowledged in the following collection of papers:
-<p style="font-size: 16px;"><b>The Effective Connectivity of the Human Hippocampal Memory System</b>[<p style="font-size: 16px;"><a href="https://www.oxcns.org/papers/647%20Rolls%20et%20al%202022%20Effective%20connectivity%20of%20the%20human%20hippocampus%20memory%20system.pdf">pdf</a>]<br>
+<p style="font-size: 16px;"><b>The Effective Connectivity of the Human Hippocampal Memory System</b>[<a href="https://www.oxcns.org/papers/647%20Rolls%20et%20al%202022%20Effective%20connectivity%20of%20the%20human%20hippocampus%20memory%20system.pdf">pdf</a>]<br>
 <em>Edmund T. Rolls, Gustavo Deco, Chu-Chung Huang, Jianfeng Feng</em><br>
 
-<p style="font-size: 16px;"><b>The Human Orbitofrontal Cortex, VmPFC, and Anterior Cingulate Cortex Effective Connectome: Emotion, Memory, and Action</b>[<p style="font-size: 16px;"><a href="https://www.oxcns.org/papers/649%20Rolls%20et%20al%202023%20Human%20orbitofrontal%20cortex,%20vmPFC,%20and%20anterior%20cingulate%20cortex%20effective%20connectome.pdf">pdf</a>]<br>
+<p style="font-size: 16px;"><b>The Human Orbitofrontal Cortex, VmPFC, and Anterior Cingulate Cortex Effective Connectome: Emotion, Memory, and Action</b>[<a href="https://www.oxcns.org/papers/649%20Rolls%20et%20al%202023%20Human%20orbitofrontal%20cortex,%20vmPFC,%20and%20anterior%20cingulate%20cortex%20effective%20connectome.pdf">pdf</a>]<br>
 <em>Edmund T. Rolls, Gustavo Deco, Chu-Chung Huang, Jianfeng Feng</em><br>
 
 <p style="font-size: 16px;"><a href="https://www.oxcns.org/papers/654%20Rolls%20et%20al%202022%20Language%20Connectome.pdf">The human language effective connectome</a>

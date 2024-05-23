@@ -33,7 +33,7 @@ permalink: /research/
 <p style="font-size: 16px;"><b>The Human Language Effective Connectome </b>[<a href="https://www.oxcns.org/papers/654%20Rolls%20et%20al%202022%20Language%20Connectome.pdf">pdf</a>]<br>
 <em>Edmund T. Rolls, Gustavo Deco, Chu-Chung Huang, Jianfeng Feng</em><br>
 
-<p style="font-size: 16px;"><b>The Human Posterior Parietal Cortex: Effective Connectome, and its Relation to Function </b>[<a href="https://www.oxcns.org/papers/655%20Rolls%20et%20al%202023%20Human%20posterior%20parietal%20cortex.pdf">pdf</a>]<br>
+<p style="font-size: 16px;"><b>The Human Posterior Parietal Cortex: Effective Connectome </b>[<a href="https://www.oxcns.org/papers/655%20Rolls%20et%20al%202023%20Human%20posterior%20parietal%20cortex.pdf">pdf</a>]<br>
 <em>Edmund T. Rolls, Gustavo Deco, Chu-Chung Huang, Jianfeng Feng</em><br>
 
 <p style="font-size: 16px;"><b>Prefrontal and Somatosensory-Motor Cortex Effective Connectivity in Humans </b>[<a href="https://www.oxcns.org/papers/660%20Rolls%20et%20al%202023%20Prefrontal%20and%20somatosensory%20cortex%20connectivity%20in%20humans.pdf">pdf</a>]<br>

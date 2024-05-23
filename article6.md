@@ -2,10 +2,10 @@
 layout: single
 permalink: /article6/
 ---
-<h1>A Non-Technical Introduction to AI in 500 Words</h1>
+<h1>A VERY simple introduction to AI in 500 Words</h1>
 
 <p style="font-size: 16px;"><b>Introduction.</b><br>
-To understand Artificial Intelligence (AI), we must first recognise the factors that make humans intelligent. When we are born, our brains have almost no knowledge about the world around us. As our brains develop, we gradually build an increasingly complex internal model of the external world. This model allows us to recognise patterns, reason, and ultimately exhibit intelligent behaviour. But how exactly does our brain construct this model? <br>
+To understand Artificial Intelligence (AI), we must first recognise the factors that make humans intelligent. When a human is born, they have almost no knowledge about the world around them. As our brains develop, we gradually build an increasingly complex internal model of the external world. This model allows us to reason about our surroundings and ultimately exhibit intelligent behaviour. But how exactly does our brain construct this model? <br>
 
 <p style="font-size: 16px;">The leading theory suggests that our brain continuously tries to predict the next sensation that it will see, hear, smell, taste, or feel. The brain is rewarded for correct predictions and adjusted for incorrect ones, which teaches it to recognise patterns in the world around it. For example, if I hear a barking sound, I am likely to see a dog. If I learn to recognise this pattern, then I can correctly predict that a dog may be nearby upon hearing a bark. By recognising billions of these patterns, our brain builds an increasingly sophisticated model of the external world. <br>
 
@@ -31,3 +31,5 @@ Writing Poetry: AI can even learn to perform creative tasks, such as poetry. For
 <em>Sun-kissed smiles, memories made.</em> <br>
 
 <p style="font-size: 11px;"> Gif taken from Washington University Institute for Protein Design</p>
+
+<p style="font-size: 16px;"> May 2024 </p>

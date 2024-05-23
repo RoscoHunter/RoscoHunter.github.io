@@ -13,7 +13,7 @@ permalink: /research/
 <em>Rosco Hunter</em><br>
 
 <h1>Articles</h1>
-<p style="font-size: 16px;"><a href="../article6">A Non-Technical Introduction to AI in 500 Words</a>
+<p style="font-size: 16px;"><a href="../article6">A VERY simple introduction to AI in 500 Words</a>
 
 <p style="font-size: 16px;"><a href="../article5">A Review of “Theory Is All You Need” by Felin and Holwig</a>
 

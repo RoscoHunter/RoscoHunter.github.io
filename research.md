@@ -23,7 +23,7 @@ permalink: /research/
 <p style="font-size: 16px;"><a href="../article1">Augmented Assembly: AI’s Role in Democratising Democracy</a>
 
 <h1>Additional Research</h1>
-<p style="font-size: 16px;">I refined a causal model of the human connectome at the Oxford Centre for Computational Neuroscience. This work was acknowledged in a collection of “Effective Connectivity” papers that have since accrued over 250 citations:
+<p style="font-size: 16px;">I refined a causal model of the human connectome at the Oxford Centre for Computational Neuroscience. My contribution was acknowledged in the following collection of papers:
 <p style="font-size: 16px;"><a href="https://www.oxcns.org/papers/647%20Rolls%20et%20al%202022%20Effective%20connectivity%20of%20the%20human%20hippocampus%20memory%20system.pdf">The effective connectivity of the human hippocampal memory system</a>
 
 <p style="font-size: 16px;"><a href="https://www.oxcns.org/papers/649%20Rolls%20et%20al%202023%20Human%20orbitofrontal%20cortex,%20vmPFC,%20and%20anterior%20cingulate%20cortex%20effective%20connectome.pdf">The human orbitofrontal cortex, vmPFC, and anterior cingulate cortex effective connectome: emotion, memory, and action</a>

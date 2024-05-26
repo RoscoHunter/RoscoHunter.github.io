@@ -33,7 +33,7 @@ The concept of such a platform appears promising, especially when framed as a di
 <p style="font-size: 16px;"><b>Conclusion.</b><br>
 Currently, AI in conjunction with our laissez faire approach to digital infrastructure is fuelling a retreat of democratic norms. However, this article has outlined an alternative path for AI’s role in our democracy, emphasising its potential to both mend and extend the sclerotic status quo. Specifically, we’ve proposed ways in which AI can overcome two of the major hurdles in extending the scope of citizen’s assemblies.
 
-<p style="font-size: 16px;">These changes would hopefully foster a dynamic relationship between citizens and policy-makers, instilling a stronger sense of ownership in the democratic process. However, as a powerful tool, AI can equally be used to silence, amplify, or distort the public voice [7,8, 9]. Whether or not our greatest democratic hopes of a well-assembled electorate are realised ultimately rests in the hands of those who use, create, and oversee this technology.
+<p style="font-size: 16px;">These changes would hopefully foster a dynamic relationship between citizens and policy-makers, instilling a stronger sense of ownership in the democratic process. However, as a powerful tool, AI can equally be used to silence, amplify, or distort the public voice [7,8,9]. Whether or not our greatest democratic hopes of a well-assembled electorate are realised ultimately rests in the hands of those who use, create, and oversee this technology.
 
 <p style="font-size: 16px;"><b>References.</b><br>
 [1] Open Democracy: Reinventing Popular Rule for the Twenty-First Century (Chapter 2). Helene Landemore. Princeton University Press (2020) <br>

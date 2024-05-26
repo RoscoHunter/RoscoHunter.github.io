@@ -27,7 +27,7 @@ Human beliefs are not only determined by the ‘data’ that is pertinent to the
 
 <p style="font-size: 16px;">Rosco: <em>Answer the following question in 1 sentence: Is an ordinary table conscious? </em> <br>
 
-<p style="font-size: 16px;">Calude: <em>An ordinary table is not conscious as it lacks the biological structures and neurological processes required for subjective experiences and self-awareness. </em><br>
+<p style="font-size: 16px;">Claude: <em>An ordinary table is not conscious as it lacks the biological structures and neurological processes required for subjective experiences and self-awareness. </em><br>
 
 <p style="font-size: 16px;">Rosco: <em>You are a creative scientist interested in developing theories that justify unexpected phenomena. Answer the following question in 3 sentences. Is an ordinary table conscious? </em><br>
 

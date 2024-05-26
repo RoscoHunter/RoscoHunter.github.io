@@ -28,18 +28,12 @@ Imagine a platform akin to a political version of Wikipedia [5], where individua
 <p style="font-size: 16px;"><b>Addressing Insufficient Expertise with AI.</b><br>
 The concept of such a platform appears promising, especially when framed as a direct political analog to Wikipedia. However, crafting legislation is a significantly more complex process than constructing an encyclopaedia [6]. This complexity poses a challenge, given that most users lack the expert guidance required to craft effective policies. Fortunately, AI is once again well-suited to help and can assist users in productively engaging with their feed.<br>
 
-<p style="font-size: 16px;">Large Language Models* (LLMs), drawing upon an extensive knowledge base of historical legislation can guide citizens in writing policy proposals. Users can initiate this process by providing an informal statement on how an existing issue paper could be improved or enhanced. In response, the LLM would get to work, generating a series of detailed legislative changes (along with annotations) for the user to review. Once the user is satisfied with the proposed changes, they can choose to incorporate these informed recommendations into the public sphere.
+<p style="font-size: 16px;">Large Language Models (LLMs), drawing upon an extensive knowledge base of historical legislation can guide citizens in writing policy proposals. Users can initiate this process by providing an informal statement on how an existing issue paper could be improved or enhanced. In response, the LLM would get to work, generating a series of detailed legislative changes (along with annotations) for the user to review. Once the user is satisfied with the proposed changes, they can choose to incorporate these informed recommendations into the public sphere.
   
 <p style="font-size: 16px;"><b>Conclusion.</b><br>
 Currently, AI in conjunction with our laissez faire approach to digital infrastructure is fuelling a retreat of democratic norms. However, this article has outlined an alternative path for AI’s role in our democracy, emphasising its potential to both mend and extend the sclerotic status quo. Specifically, we’ve proposed ways in which AI can overcome two of the major hurdles in extending the scope of citizen’s assemblies.
 
-<p style="font-size: 16px;">These changes would hopefully foster a dynamic relationship between citizens and policy-makers, instilling a stronger sense of ownership in the democratic process. However, as a powerful tool, AI can equally be used to silence, amplify, or distort the public voice [7,8]. Whether or not our greatest democratic hopes of a well-assembled electorate are realised ultimately rests in the hands of those who use, create, and oversee this technology.
-
-<p style="font-size: 16px;"><b>Ethical Concerns.</b><br>
-Despite the potential benefits of our proposal, it is vital to recognise the risks of this ‘Augmented Assembly.’ One such challenge is the need to safeguard against foreign interference without compromising individuals’ privacy. Moreover, the political bias of LLMs could potentially influence individual users’ policy suggestions.
-
-<p style="font-size: 16px;"><b>*Footnote:</b>
-For more information on the consequences of LLMs in scalable deliberation, please see “Opportunities and Risks of LLMs for Scalable Deliberation with Polis.” [9]
+<p style="font-size: 16px;">These changes would hopefully foster a dynamic relationship between citizens and policy-makers, instilling a stronger sense of ownership in the democratic process. However, as a powerful tool, AI can equally be used to silence, amplify, or distort the public voice [7,8, 9]. Whether or not our greatest democratic hopes of a well-assembled electorate are realised ultimately rests in the hands of those who use, create, and oversee this technology.
 
 <p style="font-size: 16px;"><b>References.</b><br>
 [1] Open Democracy: Reinventing Popular Rule for the Twenty-First Century (Chapter 2). Helene Landemore. Princeton University Press (2020) <br>

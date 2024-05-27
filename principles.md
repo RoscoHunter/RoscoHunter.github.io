@@ -13,5 +13,5 @@ permalink: /principles/
 7. Accept what you can’t, or shouldn’t, control <br>
 8. Invest in meaningful connections <br>
 9. Don't do anything you wouldn’t tell a friend to do <br>
-10. Freedom requires self-discipline and reflection  
+10. Freedom requires discipline and reflection  
 

@@ -10,6 +10,5 @@ permalink: /principles/
 4. Own your decisions, or lack thereof <br>
 5. Don't lose yourself in fantasy or reality <br>
 6. Accept what you can’t, or shouldn’t, control <br>
-7. Don't do anything you wouldn’t tell a friend to do <br>
-8. Freedom requires discipline and reflection  
+7. Freedom requires discipline and reflection  
 

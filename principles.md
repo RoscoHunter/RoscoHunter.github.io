@@ -7,7 +7,7 @@ permalink: /principles/
 1. Learn what and how to prioritise <br>
 2. Nothing and no one exists in isolation <br>
 3. Observe what you don’t control <br>
-4. Improve your ability to write and communicate <br>
+4. Improve your ability to communicate <br>
 5. Own your decisions, or lack thereof <br>
 6. People are verbs, not nouns <br>
 7. Don't lose yourself in fantasy or reality <br>

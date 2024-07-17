@@ -6,7 +6,7 @@ permalink: /principles/
 <p style="font-size: 16px;">
 1. Learn what and how to prioritise <br>
 2. Identify what you can't, or shouldn't, control <br>
-3. Develop your ability to communicate effectively <br>
+3. Develop your ability to communicate clearly <br>
 4. Own your decisions, or lack thereof <br>
 5. Nothing and no one exists in isolation <br>
 6. Human beings are verbs, not nouns <br>

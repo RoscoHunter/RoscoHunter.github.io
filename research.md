@@ -2,7 +2,7 @@
 layout: single
 permalink: /research/
 ---
-<h1>Research Papers</h1>
+<h1>Research papers</h1>
 <p style="font-size: 16px;"><b>Monitoring Human Dependence On AI Systems With Reliance Drills</b> [<a href="https://arxiv.org/pdf/2409.14055">pdf</a>] <br>
 <em>Rosco Hunter, Richard Moulange, Jamie Bernardi, Merlin Stein</em><br>
   

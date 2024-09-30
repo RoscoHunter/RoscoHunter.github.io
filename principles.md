@@ -2,7 +2,7 @@
 layout: single
 permalink: /principles/
 ---
-<h1>My Principles for Life</h1>
+<h1>My principles for life</h1>
 <p style="font-size: 16px;">
 1. Speak clearly and deliberately <br>
 2. Train your attention and appreciation <br>

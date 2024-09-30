@@ -2,7 +2,7 @@
 layout: single
 permalink: /bookshelf/
 ---
-<h1>My Favourite Papers</h1>
+<h1>My favourite papers</h1>
 <p style="font-size: 16px;"><b>Societal Adaptation to Advanced AI </b>[<a href="https://arxiv.org/pdf/2405.10295">pdf</a>]<br>
 <em>Jamie Bernardi, et al. ArXiv, 2024</em><br>
 

@@ -6,7 +6,5 @@ main:
     url: /research/
   - title: Bookshelf
     url: /bookshelf/
-  - title: Principles
-    url: /principles/
   - title: CV
     url: /RHCV.pdf

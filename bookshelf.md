@@ -21,5 +21,5 @@ permalink: /bookshelf/
 <p style="font-size: 16px;"><b>Dissecting Adam: The Sign, Magnitude, and Variance of Stochastic Grads </b>[<a href="https://arxiv.org/pdf/1705.07774.pdf">pdf</a>]<br>
 <em>Lukas Balles & Philipp Hennig. ICML, 2018</em><br>
 
-<p style="font-size: 16px;"><b>Structured Access: An Emerging Paradigm for Safe AI Deployment </b> [<a href="https://arxiv.org/pdf/2201.05159.pdf">pdf</a>]<br>
-<em>Toby Shevlane. ArXiv, 2022</em><br>
+<p style="font-size: 16px;"><b>Open-Sourcing Highly Capable Foundation Models </b> [<a href="https://cdn.governance.ai/Open-Sourcing_Highly_Capable_Foundation_Models_2023_GovAI.pdf">pdf</a>]<br>
+<em>Elizabeth Seger, et al. SSRN, 2023</em><br>
